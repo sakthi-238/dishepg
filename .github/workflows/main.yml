@@ -3,7 +3,7 @@ name: Run Python Script and Commit Output
 on:
   schedule:
     # Run every 2 minutes (adjust as needed)
-    - cron: '*/2 * * * *'
+    - cron: '30 10 * * *'
   workflow_dispatch: # Allows manual triggering from the Actions tab
 
 jobs:

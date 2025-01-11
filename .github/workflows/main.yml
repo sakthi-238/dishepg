@@ -4,6 +4,7 @@ on:
   schedule:
     # Run every 2 minutes (adjust as needed)
     - cron: '*/2 * * * *'
+  workflow_dispatch: # Allows manual triggering from the Actions tab
 
 jobs:
   run-script:

@@ -1,0 +1,33 @@
+name: Run Python Script and Commit Output
+
+on:
+  schedule:
+    # Run every day at 9:00 PM UTC
+    - cron: '0 21 * * *'
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run script
+        run: python dish.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "<>"
+          git add *.json
+          git commit -m "Update generated JSON file [skip ci]"
+          git push
+        env:
+          # Use a personal access token to push
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

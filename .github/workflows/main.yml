@@ -3,7 +3,7 @@ name: Run Python Script and Commit Output
 on:
   schedule:
     # Run every day at 9:00 PM UTC
-    - cron: '0 21 * * *'
+    - cron: '*/2 * * * *'
 
 jobs:
   run-script:

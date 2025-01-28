@@ -178,7 +178,13 @@ def get_channels_data():
 				"title": "Gubbare",
 				"logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57985-khvdchrs-v2/imageContent-57985-khvdchrs-m2.png",
 				"channel_genre": "Kids"
-			  }
+			  },
+			  {
+				"id": "10000000011200000",
+				"title": "DTAMIL",
+				"logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/zkOxCPUu.png",
+				"channel_genre": "Tamil"
+			  }              
 		]'''
 
 	all_channels = json.loads(all_channels)

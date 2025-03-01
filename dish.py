@@ -72,7 +72,7 @@ def get_channels_data():
 
 	all_channels ='''[
 			  {
-				"id": "10000000000350000",
+				"id": "143883",
 				"title": "Super Hungama",
 				"logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png",
 				"channel_genre": "Kids"
@@ -120,13 +120,13 @@ def get_channels_data():
 				"channel_genre": "Kids"
 			  },
 			  {
-				"id": "10000000051840000",
+				"id": "124162",
 				"title": "SONY YAY",
 				"logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png",
 				"channel_genre": "Kids"
 			  },
 			  {
-				"id": "10000000075992191",
+				"id": "143025",
 				"title": "ETV Bal Bharat",
 				"logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62236-kny7yzaw-v1/imageContent-62236-kny7yzaw-m1.png",
 				"channel_genre": "Kids"
@@ -144,7 +144,7 @@ def get_channels_data():
 				"channel_genre": "Kids"
 			  },
 			  {
-				"id": "10000000001690000",
+				"id": "143150",
 				"title": "Hungama",
 				"logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11479-j9jr9a8o-v1/imageContent-11479-j9jr9a8o-m1.png",
 				"channel_genre": "Kids"
@@ -174,7 +174,7 @@ def get_channels_data():
 				"channel_genre": "Kids"
 			  },
 			  {
-				"id": "10000000075990144",
+				"id": "159014",
 				"title": "Gubbare",
 				"logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57985-khvdchrs-v2/imageContent-57985-khvdchrs-m2.png",
 				"channel_genre": "Kids"

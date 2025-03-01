@@ -84,7 +84,7 @@ def get_channels_data():
 				"channel_genre": "Kids"
 			  },
 			  {
-				"id": "10000000039210000",
+				"id": "159121",
 				"title": "Nick HD+",
 				"logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11658-j9k5lvgo-v1/imageContent-11658-j9k5lvgo-m1.png",
 				"channel_genre": "Kids"
@@ -114,7 +114,7 @@ def get_channels_data():
 				"channel_genre": "Kids"
 			  },
 			  {
-				"id": "10000000007610000",
+				"id": "159124",
 				"title": "Sonic Nickelodeon",
 				"logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8018-j7a7n1a8-v1/imageContent-8018-j7a7n1a8-m1.png",
 				"channel_genre": "Kids"
@@ -132,13 +132,13 @@ def get_channels_data():
 				"channel_genre": "Kids"
 			  },
 			  {
-				"id": "10000000013230000",
+				"id": "157820",
 				"title": "Nick Jr",
 				"logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-390-j5jpps1s-v1/imageContent-390-j5jpps1s-m1.png",
 				"channel_genre": "Kids"
 			  },
 			  {
-				"id": "10000000012870000",
+				"id": "142990",
 				"title": "Disney Junior",
 				"logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35368-jr3xz7xs-v1/imageContent-35368-jr3xz7xs-m1.png",
 				"channel_genre": "Kids"
@@ -150,13 +150,13 @@ def get_channels_data():
 				"channel_genre": "Kids"
 			  },
 			  {
-				"id": "10000000001770000",
+				"id": "142739",
 				"title": "Chutti TV",
 				"logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11278-j9j4h4s0-v1/imageContent-11278-j9j4h4s0-m1.png",
 				"channel_genre": "Kids"
 			  },
 			  {
-				"id": "10000000007490000",
+				"id": "143269",
 				"title": "Kochu TV",
 				"logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-258-j5fz98sg-v1/imageContent-258-j5fz98sg-m1.png",
 				"channel_genre": "Kids"
@@ -168,7 +168,7 @@ def get_channels_data():
 				"channel_genre": "Kids"
 			  },
 			  {
-				"id": "10000000075992767",
+				"id": "158843",
 				"title": "Disney Channel HD",
 				"logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png",
 				"channel_genre": "Kids"
@@ -180,7 +180,7 @@ def get_channels_data():
 				"channel_genre": "Kids"
 			  },
 			  {
-				"id": "10000000011200000",
+				"id": "143012",
 				"title": "DTAMIL",
 				"logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/zkOxCPUu.png",
 				"channel_genre": "Tamil"

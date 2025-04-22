@@ -120,7 +120,7 @@ def get_channels_data():
 				"channel_genre": "Kids"
 			  },
 			  {
-				"id": "124162",
+				"id": "159100",
 				"title": "SONY YAY",
 				"logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png",
 				"channel_genre": "Kids"

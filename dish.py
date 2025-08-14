@@ -78,7 +78,7 @@ def get_channels_data():
 				"channel_genre": "Kids"
 			  },
 			  {
-				"id": "10000000000340000",
+				"id": "159012",
 				"title": "Disney",
 				"logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",
 				"channel_genre": "Kids"
@@ -90,19 +90,19 @@ def get_channels_data():
 				"channel_genre": "Kids"
 			  },
 			  {
-				"id": "10000000001010000",
+				"id": "143625",
 				"title": "Nick",
 				"logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-465-j5jw9va0-v1/imageContent-465-j5jw9va0-m1.png",
 				"channel_genre": "Kids"
 			  },
 			  {
-				"id": "10000000000760000",
+				"id": "157576",
 				"title": "Cartoon Network",
 				"logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png",
 				"channel_genre": "Kids"
 			  },
 			  {
-				"id": "10000000000860000",
+				"id": "143663",
 				"title": "Pogo",
 				"logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png",
 				"channel_genre": "Kids"
@@ -248,3 +248,4 @@ def generate_new_epg_data():
 	append_to_existing_json('EPG.json', epg)
 
 generate_new_epg_data()
+

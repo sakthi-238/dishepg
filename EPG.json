@@ -63202,6 +63202,3674 @@
                 "channelName": "DTAMIL",
                 "programs": []
             }
+        ],
+        "2025-09-02": [
+            {
+                "channelId": "143883",
+                "channelName": "Super Hungama",
+                "programs": [
+                    {
+                        "title": "Pokemon",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T00:00:00Z",
+                        "endTime": "2025-09-02T02:00:00Z"
+                    },
+                    {
+                        "title": "Beyblade",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T02:00:00Z",
+                        "endTime": "2025-09-02T04:00:00Z"
+                    },
+                    {
+                        "title": "Pokemon",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T04:00:00Z",
+                        "endTime": "2025-09-02T06:00:00Z"
+                    },
+                    {
+                        "title": "Supa Strikas",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T06:00:00Z",
+                        "endTime": "2025-09-02T07:00:00Z"
+                    },
+                    {
+                        "title": "Chuck Chicken",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T07:00:00Z",
+                        "endTime": "2025-09-02T08:00:00Z"
+                    },
+                    {
+                        "title": "Pokemon",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T08:00:00Z",
+                        "endTime": "2025-09-02T12:00:00Z"
+                    },
+                    {
+                        "title": "Ejen Ali",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T12:00:00Z",
+                        "endTime": "2025-09-02T12:30:00Z"
+                    },
+                    {
+                        "title": "Ejen Ali",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T12:30:00Z",
+                        "endTime": "2025-09-02T13:00:00Z"
+                    },
+                    {
+                        "title": "Supa Strikas",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T13:00:00Z",
+                        "endTime": "2025-09-02T14:00:00Z"
+                    },
+                    {
+                        "title": "Pokemon",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T14:00:00Z",
+                        "endTime": "2025-09-02T17:30:00Z"
+                    },
+                    {
+                        "title": "Ejen Ali",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T17:30:00Z",
+                        "endTime": "2025-09-02T19:00:00Z"
+                    },
+                    {
+                        "title": "Supa Strikas",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T19:00:00Z",
+                        "endTime": "2025-09-02T19:30:00Z"
+                    },
+                    {
+                        "title": "Supa Strikas",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T19:30:00Z",
+                        "endTime": "2025-09-02T20:00:00Z"
+                    },
+                    {
+                        "title": "Pokemon",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T20:00:00Z",
+                        "endTime": "2025-09-02T23:00:00Z"
+                    },
+                    {
+                        "title": "Chuck Chicken",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T23:00:00Z",
+                        "endTime": "2025-09-03T00:00:00Z"
+                    }
+                ]
+            },
+            {
+                "channelId": "159012",
+                "channelName": "Disney",
+                "programs": [
+                    {
+                        "title": "Perman",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T01:30:00Z",
+                        "endTime": "2025-09-02T05:00:00Z"
+                    },
+                    {
+                        "title": "Perman",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T05:00:00Z",
+                        "endTime": "2025-09-02T06:00:00Z"
+                    },
+                    {
+                        "title": "Perman",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T06:00:00Z",
+                        "endTime": "2025-09-02T07:00:00Z"
+                    },
+                    {
+                        "title": "Doraemon",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T07:00:00Z",
+                        "endTime": "2025-09-02T17:30:00Z"
+                    },
+                    {
+                        "title": "Rudra Boom Chick Chick Boom",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T17:30:00Z",
+                        "endTime": "2025-09-02T18:00:00Z"
+                    },
+                    {
+                        "title": "Rudra Boom Chick Chick Boom",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T18:00:00Z",
+                        "endTime": "2025-09-02T18:30:00Z"
+                    },
+                    {
+                        "title": "Doraemon: Nobita's Little Star Wars",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T18:30:00Z",
+                        "endTime": "2025-09-02T20:30:00Z"
+                    },
+                    {
+                        "title": "Doraemon",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T20:30:00Z",
+                        "endTime": "2025-09-02T23:00:00Z"
+                    },
+                    {
+                        "title": "Perman",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T23:00:00Z",
+                        "endTime": "2025-09-03T01:30:00Z"
+                    }
+                ]
+            },
+            {
+                "channelId": "159121",
+                "channelName": "Nick HD+",
+                "programs": [
+                    {
+                        "title": "Dora and Friends: Into the City!",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T00:00:00Z",
+                        "endTime": "2025-09-02T01:00:00Z"
+                    },
+                    {
+                        "title": "SpongeBob SquarePants",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T01:00:00Z",
+                        "endTime": "2025-09-02T01:30:00Z"
+                    },
+                    {
+                        "title": "SpongeBob SquarePants",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T01:30:00Z",
+                        "endTime": "2025-09-02T03:00:00Z"
+                    },
+                    {
+                        "title": "The Loud House",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T03:00:00Z",
+                        "endTime": "2025-09-02T03:30:00Z"
+                    },
+                    {
+                        "title": "The Loud House",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T03:30:00Z",
+                        "endTime": "2025-09-02T04:30:00Z"
+                    },
+                    {
+                        "title": "The Penguins of Madagascar",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T04:30:00Z",
+                        "endTime": "2025-09-02T05:00:00Z"
+                    },
+                    {
+                        "title": "The Penguins of Madagascar",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T05:00:00Z",
+                        "endTime": "2025-09-02T06:00:00Z"
+                    },
+                    {
+                        "title": "Dora and Friends: Into the City!",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T06:00:00Z",
+                        "endTime": "2025-09-02T07:00:00Z"
+                    },
+                    {
+                        "title": "Dora and Friends: Into the City!",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T07:00:00Z",
+                        "endTime": "2025-09-02T08:00:00Z"
+                    },
+                    {
+                        "title": "SpongeBob SquarePants",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T08:00:00Z",
+                        "endTime": "2025-09-02T08:30:00Z"
+                    },
+                    {
+                        "title": "SpongeBob SquarePants",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T08:30:00Z",
+                        "endTime": "2025-09-02T10:00:00Z"
+                    },
+                    {
+                        "title": "The Loud House",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T10:00:00Z",
+                        "endTime": "2025-09-02T10:30:00Z"
+                    },
+                    {
+                        "title": "The Loud House",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T10:30:00Z",
+                        "endTime": "2025-09-02T11:30:00Z"
+                    },
+                    {
+                        "title": "The Penguins of Madagascar",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T11:30:00Z",
+                        "endTime": "2025-09-02T12:00:00Z"
+                    },
+                    {
+                        "title": "The Penguins of Madagascar",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T12:00:00Z",
+                        "endTime": "2025-09-02T13:00:00Z"
+                    },
+                    {
+                        "title": "The Casagrandes",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T13:00:00Z",
+                        "endTime": "2025-09-02T13:30:00Z"
+                    },
+                    {
+                        "title": "The Casagrandes",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T13:30:00Z",
+                        "endTime": "2025-09-02T14:00:00Z"
+                    },
+                    {
+                        "title": "SpongeBob SquarePants",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T14:00:00Z",
+                        "endTime": "2025-09-02T15:30:00Z"
+                    },
+                    {
+                        "title": "Dora and Friends: Into the City!",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T15:30:00Z",
+                        "endTime": "2025-09-02T17:30:00Z"
+                    },
+                    {
+                        "title": "Transformers: EarthSpark",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T17:30:00Z",
+                        "endTime": "2025-09-02T18:00:00Z"
+                    },
+                    {
+                        "title": "Transformers: EarthSpark",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T18:00:00Z",
+                        "endTime": "2025-09-02T19:00:00Z"
+                    },
+                    {
+                        "title": "The Penguins of Madagascar",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T19:00:00Z",
+                        "endTime": "2025-09-02T20:00:00Z"
+                    },
+                    {
+                        "title": "Teenage Mutant Ninja Turtles",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T20:00:00Z",
+                        "endTime": "2025-09-02T20:30:00Z"
+                    },
+                    {
+                        "title": "Teenage Mutant Ninja Turtles",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T20:30:00Z",
+                        "endTime": "2025-09-02T21:00:00Z"
+                    },
+                    {
+                        "title": "iCarly",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T21:00:00Z",
+                        "endTime": "2025-09-02T21:30:00Z"
+                    },
+                    {
+                        "title": "WITS Academy",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T21:30:00Z",
+                        "endTime": "2025-09-02T22:00:00Z"
+                    },
+                    {
+                        "title": "Dora and Friends: Into the City!",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T22:00:00Z",
+                        "endTime": "2025-09-02T23:00:00Z"
+                    },
+                    {
+                        "title": "Dora and Friends: Into the City!",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T23:00:00Z",
+                        "endTime": "2025-09-03T00:00:00Z"
+                    }
+                ]
+            },
+            {
+                "channelId": "143625",
+                "channelName": "Nick",
+                "programs": [
+                    {
+                        "title": "Abhimanyu Ki Alien Family",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T01:00:00Z",
+                        "endTime": "2025-09-02T02:00:00Z"
+                    },
+                    {
+                        "title": "Abhimanyu Ki Alien Family",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T02:00:00Z",
+                        "endTime": "2025-09-02T02:30:00Z"
+                    },
+                    {
+                        "title": "Abhimanyu Ki Alien Family",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T02:30:00Z",
+                        "endTime": "2025-09-02T06:00:00Z"
+                    },
+                    {
+                        "title": "Abhimanyu Ki Alien Family",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T06:00:00Z",
+                        "endTime": "2025-09-02T07:00:00Z"
+                    },
+                    {
+                        "title": "Pak Pak Pakau",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T07:00:00Z",
+                        "endTime": "2025-09-02T07:15:00Z"
+                    },
+                    {
+                        "title": "Motu Patlu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T07:15:00Z",
+                        "endTime": "2025-09-02T10:00:00Z"
+                    },
+                    {
+                        "title": "Chikoo Aur Bunty",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T10:00:00Z",
+                        "endTime": "2025-09-02T13:00:00Z"
+                    },
+                    {
+                        "title": "Motu Patlu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T13:00:00Z",
+                        "endTime": "2025-09-02T13:30:00Z"
+                    },
+                    {
+                        "title": "Motu Patlu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T13:30:00Z",
+                        "endTime": "2025-09-02T14:00:00Z"
+                    },
+                    {
+                        "title": "Motu Patlu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T14:00:00Z",
+                        "endTime": "2025-09-02T15:30:00Z"
+                    },
+                    {
+                        "title": "Motu Patlu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T15:30:00Z",
+                        "endTime": "2025-09-02T16:00:00Z"
+                    },
+                    {
+                        "title": "Chikoo Aur Bunty",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T16:00:00Z",
+                        "endTime": "2025-09-02T18:30:00Z"
+                    },
+                    {
+                        "title": "Chikoo Aur Bunty",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T18:30:00Z",
+                        "endTime": "2025-09-02T19:00:00Z"
+                    },
+                    {
+                        "title": "Chikoo Aur Bunty",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T19:00:00Z",
+                        "endTime": "2025-09-02T20:00:00Z"
+                    },
+                    {
+                        "title": "Motu Patlu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T20:00:00Z",
+                        "endTime": "2025-09-02T23:00:00Z"
+                    },
+                    {
+                        "title": "Abhimanyu Ki Alien Family",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T23:00:00Z",
+                        "endTime": "2025-09-03T01:00:00Z"
+                    }
+                ]
+            },
+            {
+                "channelId": "157576",
+                "channelName": "Cartoon Network",
+                "programs": [
+                    {
+                        "title": "The Tom and Jerry Show",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T01:00:00Z",
+                        "endTime": "2025-09-02T02:00:00Z"
+                    },
+                    {
+                        "title": "The Tom and Jerry Show",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T02:00:00Z",
+                        "endTime": "2025-09-02T03:00:00Z"
+                    },
+                    {
+                        "title": "The Tom and Jerry Show",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T03:00:00Z",
+                        "endTime": "2025-09-02T04:00:00Z"
+                    },
+                    {
+                        "title": "The Tom and Jerry Show",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T04:00:00Z",
+                        "endTime": "2025-09-02T06:00:00Z"
+                    },
+                    {
+                        "title": "The Tom and Jerry Show",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T06:00:00Z",
+                        "endTime": "2025-09-02T07:00:00Z"
+                    },
+                    {
+                        "title": "Teen Titans GO!",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T07:00:00Z",
+                        "endTime": "2025-09-02T07:30:00Z"
+                    },
+                    {
+                        "title": "Teen Titans GO!",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T07:30:00Z",
+                        "endTime": "2025-09-02T08:00:00Z"
+                    },
+                    {
+                        "title": "Teen Titans GO!",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T08:00:00Z",
+                        "endTime": "2025-09-02T08:20:00Z"
+                    },
+                    {
+                        "title": "Baby Little Singham",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T08:20:00Z",
+                        "endTime": "2025-09-02T08:30:00Z"
+                    },
+                    {
+                        "title": "Baby Little Singham",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T08:30:00Z",
+                        "endTime": "2025-09-02T09:00:00Z"
+                    },
+                    {
+                        "title": "Little Krishna",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T09:00:00Z",
+                        "endTime": "2025-09-02T09:40:00Z"
+                    },
+                    {
+                        "title": "Teen Titans GO!",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T09:40:00Z",
+                        "endTime": "2025-09-02T10:00:00Z"
+                    },
+                    {
+                        "title": "Teen Titans GO!",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T10:00:00Z",
+                        "endTime": "2025-09-02T10:30:00Z"
+                    },
+                    {
+                        "title": "Teen Titans GO!",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T10:30:00Z",
+                        "endTime": "2025-09-02T11:30:00Z"
+                    },
+                    {
+                        "title": "Teen Titans GO!",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T11:30:00Z",
+                        "endTime": "2025-09-02T12:00:00Z"
+                    },
+                    {
+                        "title": "Teen Titans GO!",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T12:00:00Z",
+                        "endTime": "2025-09-02T12:30:00Z"
+                    },
+                    {
+                        "title": "Bandbudh Aur Budbak",
+                        "Series Number": "1",
+                        "Episode Number": "1",
+                        "startTime": "2025-09-02T12:30:00Z",
+                        "endTime": "2025-09-02T13:30:00Z"
+                    },
+                    {
+                        "title": "Bandbudh Aur Budbak",
+                        "Series Number": "1",
+                        "Episode Number": "1",
+                        "startTime": "2025-09-02T13:30:00Z",
+                        "endTime": "2025-09-02T14:30:00Z"
+                    },
+                    {
+                        "title": "Teen Titans GO!",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T14:30:00Z",
+                        "endTime": "2025-09-02T15:00:00Z"
+                    },
+                    {
+                        "title": "Teen Titans GO!",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T15:00:00Z",
+                        "endTime": "2025-09-02T15:30:00Z"
+                    },
+                    {
+                        "title": "Teen Titans GO!",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T15:30:00Z",
+                        "endTime": "2025-09-02T16:30:00Z"
+                    },
+                    {
+                        "title": "Teen Titans GO!",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T16:30:00Z",
+                        "endTime": "2025-09-02T17:30:00Z"
+                    },
+                    {
+                        "title": "Teen Titans GO!",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T17:30:00Z",
+                        "endTime": "2025-09-02T18:00:00Z"
+                    },
+                    {
+                        "title": "Teen Titans GO!",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T18:00:00Z",
+                        "endTime": "2025-09-02T18:30:00Z"
+                    },
+                    {
+                        "title": "Teen Titans GO!",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T18:30:00Z",
+                        "endTime": "2025-09-02T19:00:00Z"
+                    },
+                    {
+                        "title": "Teen Titans GO!",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T19:00:00Z",
+                        "endTime": "2025-09-02T19:30:00Z"
+                    },
+                    {
+                        "title": "Teen Titans GO!",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T19:30:00Z",
+                        "endTime": "2025-09-02T20:00:00Z"
+                    },
+                    {
+                        "title": "Teen Titans GO!",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T20:00:00Z",
+                        "endTime": "2025-09-02T20:30:00Z"
+                    },
+                    {
+                        "title": "Teen Titans GO!",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T20:30:00Z",
+                        "endTime": "2025-09-02T21:00:00Z"
+                    },
+                    {
+                        "title": "Hunter X Hunter",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T21:00:00Z",
+                        "endTime": "2025-09-02T21:40:00Z"
+                    },
+                    {
+                        "title": "One Piece",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T21:40:00Z",
+                        "endTime": "2025-09-02T22:00:00Z"
+                    },
+                    {
+                        "title": "One Piece",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T22:00:00Z",
+                        "endTime": "2025-09-02T22:30:00Z"
+                    },
+                    {
+                        "title": "One Piece",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T22:30:00Z",
+                        "endTime": "2025-09-02T23:00:00Z"
+                    },
+                    {
+                        "title": "One Piece",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T23:00:00Z",
+                        "endTime": "2025-09-02T23:30:00Z"
+                    },
+                    {
+                        "title": "Courage the Cowardly Dog",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T23:30:00Z",
+                        "endTime": "2025-09-03T01:00:00Z"
+                    }
+                ]
+            },
+            {
+                "channelId": "143663",
+                "channelName": "Pogo",
+                "programs": [
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "1",
+                        "Episode Number": "2",
+                        "startTime": "2025-09-02T00:00:00Z",
+                        "endTime": "2025-09-02T01:00:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T01:00:00Z",
+                        "endTime": "2025-09-02T02:00:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T02:00:00Z",
+                        "endTime": "2025-09-02T02:12:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T02:12:00Z",
+                        "endTime": "2025-09-02T02:24:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T02:24:00Z",
+                        "endTime": "2025-09-02T02:36:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T02:36:00Z",
+                        "endTime": "2025-09-02T02:48:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T02:48:00Z",
+                        "endTime": "2025-09-02T03:00:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T03:00:00Z",
+                        "endTime": "2025-09-02T03:12:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T03:12:00Z",
+                        "endTime": "2025-09-02T03:24:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T03:24:00Z",
+                        "endTime": "2025-09-02T03:36:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T03:36:00Z",
+                        "endTime": "2025-09-02T03:48:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T03:48:00Z",
+                        "endTime": "2025-09-02T04:00:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T04:00:00Z",
+                        "endTime": "2025-09-02T04:12:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T04:12:00Z",
+                        "endTime": "2025-09-02T04:24:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T04:24:00Z",
+                        "endTime": "2025-09-02T04:36:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T04:36:00Z",
+                        "endTime": "2025-09-02T04:48:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T04:48:00Z",
+                        "endTime": "2025-09-02T05:00:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T05:00:00Z",
+                        "endTime": "2025-09-02T06:00:00Z"
+                    },
+                    {
+                        "title": "Chhota Bheem",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T06:00:00Z",
+                        "endTime": "2025-09-02T07:00:00Z"
+                    },
+                    {
+                        "title": "Chhota Bheem",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T07:00:00Z",
+                        "endTime": "2025-09-02T07:30:00Z"
+                    },
+                    {
+                        "title": "Mighty Little Bheem",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T07:30:00Z",
+                        "endTime": "2025-09-02T08:00:00Z"
+                    },
+                    {
+                        "title": "Mighty Little Bheem: Diwali",
+                        "Series Number": "1",
+                        "Episode Number": "1",
+                        "startTime": "2025-09-02T08:00:00Z",
+                        "endTime": "2025-09-02T08:30:00Z"
+                    },
+                    {
+                        "title": "Mighty Little Bheem",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T08:30:00Z",
+                        "endTime": "2025-09-02T09:00:00Z"
+                    },
+                    {
+                        "title": "Mighty Little Bheem",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T09:00:00Z",
+                        "endTime": "2025-09-02T09:30:00Z"
+                    },
+                    {
+                        "title": "Jay Jagannath",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T09:30:00Z",
+                        "endTime": "2025-09-02T10:30:00Z"
+                    },
+                    {
+                        "title": "Jay Jagannath",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T10:30:00Z",
+                        "endTime": "2025-09-02T11:00:00Z"
+                    },
+                    {
+                        "title": "Jay Jagannath",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T11:00:00Z",
+                        "endTime": "2025-09-02T11:30:00Z"
+                    },
+                    {
+                        "title": "Bheem Vs Aliens",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T11:30:00Z",
+                        "endTime": "2025-09-02T12:30:00Z"
+                    },
+                    {
+                        "title": "Chhota Bheem Krishna vs Zimbara",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T12:30:00Z",
+                        "endTime": "2025-09-02T13:30:00Z"
+                    },
+                    {
+                        "title": "Little Singham",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T13:30:00Z",
+                        "endTime": "2025-09-02T14:15:00Z"
+                    },
+                    {
+                        "title": "Little Singham",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T14:15:00Z",
+                        "endTime": "2025-09-02T15:00:00Z"
+                    },
+                    {
+                        "title": "Little Singham",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T15:00:00Z",
+                        "endTime": "2025-09-02T16:00:00Z"
+                    },
+                    {
+                        "title": "Little Singham",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T16:00:00Z",
+                        "endTime": "2025-09-02T16:30:00Z"
+                    },
+                    {
+                        "title": "Grizzy and The Lemmings: World Tour",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T16:30:00Z",
+                        "endTime": "2025-09-02T17:00:00Z"
+                    },
+                    {
+                        "title": "Grizzy and The Lemmings: World Tour",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T17:00:00Z",
+                        "endTime": "2025-09-02T17:30:00Z"
+                    },
+                    {
+                        "title": "Grizzy and The Lemmings",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T17:30:00Z",
+                        "endTime": "2025-09-02T18:00:00Z"
+                    },
+                    {
+                        "title": "Grizzy and The Lemmings",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T18:00:00Z",
+                        "endTime": "2025-09-02T18:30:00Z"
+                    },
+                    {
+                        "title": "Mahashaitaan Pretpuraan",
+                        "Series Number": "1",
+                        "Episode Number": "1",
+                        "startTime": "2025-09-02T18:30:00Z",
+                        "endTime": "2025-09-02T19:15:00Z"
+                    },
+                    {
+                        "title": "Mahashaitaan Pretpuraan",
+                        "Series Number": "1",
+                        "Episode Number": "2",
+                        "startTime": "2025-09-02T19:15:00Z",
+                        "endTime": "2025-09-02T20:00:00Z"
+                    },
+                    {
+                        "title": "Mahashaitaan Pretpuraan",
+                        "Series Number": "1",
+                        "Episode Number": "3",
+                        "startTime": "2025-09-02T20:00:00Z",
+                        "endTime": "2025-09-02T20:30:00Z"
+                    },
+                    {
+                        "title": "Little Singham Vs Asur Attack",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T20:30:00Z",
+                        "endTime": "2025-09-02T21:30:00Z"
+                    },
+                    {
+                        "title": "Little Singham",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T21:30:00Z",
+                        "endTime": "2025-09-02T22:30:00Z"
+                    },
+                    {
+                        "title": "Little Singham",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T22:30:00Z",
+                        "endTime": "2025-09-02T23:00:00Z"
+                    },
+                    {
+                        "title": "Little Singham",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T23:00:00Z",
+                        "endTime": "2025-09-02T23:30:00Z"
+                    },
+                    {
+                        "title": "Little Singham",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T23:30:00Z",
+                        "endTime": "2025-09-03T00:00:00Z"
+                    }
+                ]
+            },
+            {
+                "channelId": "159011",
+                "channelName": "Discovery Kids",
+                "programs": [
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "1",
+                        "Episode Number": "9",
+                        "startTime": "2025-09-02T00:08:00Z",
+                        "endTime": "2025-09-02T00:19:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T00:19:00Z",
+                        "endTime": "2025-09-02T00:31:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T00:31:00Z",
+                        "endTime": "2025-09-02T00:42:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T00:42:00Z",
+                        "endTime": "2025-09-02T00:54:00Z"
+                    },
+                    {
+                        "title": "Fukrey Boyzzz",
+                        "Series Number": "1",
+                        "Episode Number": "69",
+                        "startTime": "2025-09-02T00:54:00Z",
+                        "endTime": "2025-09-02T01:05:00Z"
+                    },
+                    {
+                        "title": "Fukrey Boyzzz",
+                        "Series Number": "1",
+                        "Episode Number": "70",
+                        "startTime": "2025-09-02T01:05:00Z",
+                        "endTime": "2025-09-02T01:17:00Z"
+                    },
+                    {
+                        "title": "Fukrey Boyzzz",
+                        "Series Number": "1",
+                        "Episode Number": "71",
+                        "startTime": "2025-09-02T01:17:00Z",
+                        "endTime": "2025-09-02T01:28:00Z"
+                    },
+                    {
+                        "title": "Fukrey Boyzzz",
+                        "Series Number": "1",
+                        "Episode Number": "72",
+                        "startTime": "2025-09-02T01:28:00Z",
+                        "endTime": "2025-09-02T01:39:00Z"
+                    },
+                    {
+                        "title": "Fukrey Boyzzz",
+                        "Series Number": "1",
+                        "Episode Number": "73",
+                        "startTime": "2025-09-02T01:39:00Z",
+                        "endTime": "2025-09-02T01:51:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T01:51:00Z",
+                        "endTime": "2025-09-02T02:01:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "1",
+                        "Episode Number": "9",
+                        "startTime": "2025-09-02T02:01:00Z",
+                        "endTime": "2025-09-02T02:13:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T02:13:00Z",
+                        "endTime": "2025-09-02T02:24:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T02:24:00Z",
+                        "endTime": "2025-09-02T02:35:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T02:35:00Z",
+                        "endTime": "2025-09-02T02:47:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T02:47:00Z",
+                        "endTime": "2025-09-02T02:58:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "1",
+                        "Episode Number": "9",
+                        "startTime": "2025-09-02T02:58:00Z",
+                        "endTime": "2025-09-02T03:09:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T03:09:00Z",
+                        "endTime": "2025-09-02T03:21:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T03:21:00Z",
+                        "endTime": "2025-09-02T03:32:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T03:32:00Z",
+                        "endTime": "2025-09-02T03:44:00Z"
+                    },
+                    {
+                        "title": "Little Krishna",
+                        "Series Number": "1",
+                        "Episode Number": "5",
+                        "startTime": "2025-09-02T03:44:00Z",
+                        "endTime": "2025-09-02T04:07:00Z"
+                    },
+                    {
+                        "title": "Kris Roll No 21",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T04:07:00Z",
+                        "endTime": "2025-09-02T04:19:00Z"
+                    },
+                    {
+                        "title": "Kris Roll No 21",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T04:19:00Z",
+                        "endTime": "2025-09-02T04:30:00Z"
+                    },
+                    {
+                        "title": "Kris Roll No 21",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T04:30:00Z",
+                        "endTime": "2025-09-02T06:00:00Z"
+                    },
+                    {
+                        "title": "Kris Roll No 21",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T06:00:00Z",
+                        "endTime": "2025-09-02T06:12:00Z"
+                    },
+                    {
+                        "title": "Kris Roll No 21",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T06:12:00Z",
+                        "endTime": "2025-09-02T06:24:00Z"
+                    },
+                    {
+                        "title": "Kris Roll No 21",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T06:24:00Z",
+                        "endTime": "2025-09-02T06:36:00Z"
+                    },
+                    {
+                        "title": "Kris Roll No 21",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T06:36:00Z",
+                        "endTime": "2025-09-02T06:48:00Z"
+                    },
+                    {
+                        "title": "Kris Roll No 21",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T06:48:00Z",
+                        "endTime": "2025-09-02T07:00:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "3",
+                        "startTime": "2025-09-02T07:00:00Z",
+                        "endTime": "2025-09-02T07:29:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "4",
+                        "startTime": "2025-09-02T07:29:00Z",
+                        "endTime": "2025-09-02T07:40:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "5",
+                        "startTime": "2025-09-02T07:40:00Z",
+                        "endTime": "2025-09-02T07:51:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "6",
+                        "startTime": "2025-09-02T07:51:00Z",
+                        "endTime": "2025-09-02T08:02:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "7",
+                        "startTime": "2025-09-02T08:02:00Z",
+                        "endTime": "2025-09-02T08:31:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "8",
+                        "startTime": "2025-09-02T08:31:00Z",
+                        "endTime": "2025-09-02T08:43:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "9",
+                        "startTime": "2025-09-02T08:43:00Z",
+                        "endTime": "2025-09-02T08:56:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "10",
+                        "startTime": "2025-09-02T08:56:00Z",
+                        "endTime": "2025-09-02T09:23:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "11",
+                        "startTime": "2025-09-02T09:23:00Z",
+                        "endTime": "2025-09-02T09:36:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "12",
+                        "startTime": "2025-09-02T09:36:00Z",
+                        "endTime": "2025-09-02T09:47:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "13",
+                        "startTime": "2025-09-02T09:47:00Z",
+                        "endTime": "2025-09-02T09:58:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "14",
+                        "startTime": "2025-09-02T09:58:00Z",
+                        "endTime": "2025-09-02T10:11:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "7",
+                        "Episode Number": "14",
+                        "startTime": "2025-09-02T10:11:00Z",
+                        "endTime": "2025-09-02T10:34:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "15",
+                        "startTime": "2025-09-02T10:34:00Z",
+                        "endTime": "2025-09-02T11:01:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "16",
+                        "startTime": "2025-09-02T11:01:00Z",
+                        "endTime": "2025-09-02T11:28:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "19",
+                        "startTime": "2025-09-02T11:28:00Z",
+                        "endTime": "2025-09-02T11:39:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "20",
+                        "startTime": "2025-09-02T11:39:00Z",
+                        "endTime": "2025-09-02T11:50:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "21",
+                        "startTime": "2025-09-02T11:50:00Z",
+                        "endTime": "2025-09-02T12:00:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "22",
+                        "startTime": "2025-09-02T12:00:00Z",
+                        "endTime": "2025-09-02T12:11:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "23",
+                        "startTime": "2025-09-02T12:11:00Z",
+                        "endTime": "2025-09-02T12:22:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "24",
+                        "startTime": "2025-09-02T12:22:00Z",
+                        "endTime": "2025-09-02T12:34:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "10",
+                        "Episode Number": "1",
+                        "startTime": "2025-09-02T12:34:00Z",
+                        "endTime": "2025-09-02T13:00:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "10",
+                        "Episode Number": "2",
+                        "startTime": "2025-09-02T13:00:00Z",
+                        "endTime": "2025-09-02T13:27:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "5",
+                        "Episode Number": "17",
+                        "startTime": "2025-09-02T13:27:00Z",
+                        "endTime": "2025-09-02T13:39:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "5",
+                        "Episode Number": "18",
+                        "startTime": "2025-09-02T13:39:00Z",
+                        "endTime": "2025-09-02T13:51:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "5",
+                        "Episode Number": "19",
+                        "startTime": "2025-09-02T13:51:00Z",
+                        "endTime": "2025-09-02T14:04:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "5",
+                        "Episode Number": "20",
+                        "startTime": "2025-09-02T14:04:00Z",
+                        "endTime": "2025-09-02T14:17:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "5",
+                        "Episode Number": "21",
+                        "startTime": "2025-09-02T14:17:00Z",
+                        "endTime": "2025-09-02T14:30:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "5",
+                        "Episode Number": "22",
+                        "startTime": "2025-09-02T14:30:00Z",
+                        "endTime": "2025-09-02T14:43:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "5",
+                        "Episode Number": "23",
+                        "startTime": "2025-09-02T14:43:00Z",
+                        "endTime": "2025-09-02T14:54:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "5",
+                        "Episode Number": "24",
+                        "startTime": "2025-09-02T14:54:00Z",
+                        "endTime": "2025-09-02T15:05:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "5",
+                        "Episode Number": "25",
+                        "startTime": "2025-09-02T15:05:00Z",
+                        "endTime": "2025-09-02T15:15:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "5",
+                        "Episode Number": "26",
+                        "startTime": "2025-09-02T15:15:00Z",
+                        "endTime": "2025-09-02T15:25:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "1",
+                        "startTime": "2025-09-02T15:25:00Z",
+                        "endTime": "2025-09-02T15:54:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "2",
+                        "startTime": "2025-09-02T15:54:00Z",
+                        "endTime": "2025-09-02T16:21:00Z"
+                    },
+                    {
+                        "title": "Mr. Bean: The Animated Series",
+                        "Series Number": "1",
+                        "Episode Number": "10",
+                        "startTime": "2025-09-02T16:21:00Z",
+                        "endTime": "2025-09-02T16:33:00Z"
+                    },
+                    {
+                        "title": "Mr. Bean: The Animated Series",
+                        "Series Number": "1",
+                        "Episode Number": "12",
+                        "startTime": "2025-09-02T16:33:00Z",
+                        "endTime": "2025-09-02T16:45:00Z"
+                    },
+                    {
+                        "title": "Mr. Bean: The Animated Series",
+                        "Series Number": "3",
+                        "Episode Number": "12",
+                        "startTime": "2025-09-02T16:45:00Z",
+                        "endTime": "2025-09-02T16:57:00Z"
+                    },
+                    {
+                        "title": "Mr. Bean: The Animated Series",
+                        "Series Number": "2",
+                        "Episode Number": "4",
+                        "startTime": "2025-09-02T16:57:00Z",
+                        "endTime": "2025-09-02T17:08:00Z"
+                    },
+                    {
+                        "title": "Mr. Bean: The Animated Series",
+                        "Series Number": "2",
+                        "Episode Number": "8",
+                        "startTime": "2025-09-02T17:08:00Z",
+                        "endTime": "2025-09-02T17:19:00Z"
+                    },
+                    {
+                        "title": "Mr. Bean: The Animated Series",
+                        "Series Number": "2",
+                        "Episode Number": "10",
+                        "startTime": "2025-09-02T17:19:00Z",
+                        "endTime": "2025-09-02T17:30:00Z"
+                    },
+                    {
+                        "title": "Mr. Bean: The Animated Series",
+                        "Series Number": "1",
+                        "Episode Number": "14",
+                        "startTime": "2025-09-02T17:30:00Z",
+                        "endTime": "2025-09-02T17:41:00Z"
+                    },
+                    {
+                        "title": "Mr. Bean: The Animated Series",
+                        "Series Number": "1",
+                        "Episode Number": "16",
+                        "startTime": "2025-09-02T17:41:00Z",
+                        "endTime": "2025-09-02T17:52:00Z"
+                    },
+                    {
+                        "title": "Mr. Bean: The Animated Series",
+                        "Series Number": "1",
+                        "Episode Number": "18",
+                        "startTime": "2025-09-02T17:52:00Z",
+                        "endTime": "2025-09-02T18:03:00Z"
+                    },
+                    {
+                        "title": "Mr. Bean: The Animated Series",
+                        "Series Number": "2",
+                        "Episode Number": "2",
+                        "startTime": "2025-09-02T18:03:00Z",
+                        "endTime": "2025-09-02T18:14:00Z"
+                    },
+                    {
+                        "title": "Mr. Bean: The Animated Series",
+                        "Series Number": "2",
+                        "Episode Number": "14",
+                        "startTime": "2025-09-02T18:14:00Z",
+                        "endTime": "2025-09-02T18:25:00Z"
+                    },
+                    {
+                        "title": "Mr. Bean: The Animated Series",
+                        "Series Number": "2",
+                        "Episode Number": "16",
+                        "startTime": "2025-09-02T18:25:00Z",
+                        "endTime": "2025-09-02T18:36:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "3",
+                        "startTime": "2025-09-02T18:36:00Z",
+                        "endTime": "2025-09-02T19:03:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "4",
+                        "startTime": "2025-09-02T19:03:00Z",
+                        "endTime": "2025-09-02T19:28:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "5",
+                        "startTime": "2025-09-02T19:28:00Z",
+                        "endTime": "2025-09-02T19:39:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "6",
+                        "startTime": "2025-09-02T19:39:00Z",
+                        "endTime": "2025-09-02T19:50:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "7",
+                        "startTime": "2025-09-02T19:50:00Z",
+                        "endTime": "2025-09-02T20:02:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "8",
+                        "startTime": "2025-09-02T20:02:00Z",
+                        "endTime": "2025-09-02T20:15:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "9",
+                        "startTime": "2025-09-02T20:15:00Z",
+                        "endTime": "2025-09-02T20:26:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "10",
+                        "startTime": "2025-09-02T20:26:00Z",
+                        "endTime": "2025-09-02T20:36:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "11",
+                        "startTime": "2025-09-02T20:36:00Z",
+                        "endTime": "2025-09-02T20:47:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "12",
+                        "startTime": "2025-09-02T20:47:00Z",
+                        "endTime": "2025-09-02T20:58:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "13",
+                        "startTime": "2025-09-02T20:58:00Z",
+                        "endTime": "2025-09-02T21:09:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "14",
+                        "startTime": "2025-09-02T21:09:00Z",
+                        "endTime": "2025-09-02T21:20:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "15",
+                        "startTime": "2025-09-02T21:20:00Z",
+                        "endTime": "2025-09-02T21:31:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "16",
+                        "startTime": "2025-09-02T21:31:00Z",
+                        "endTime": "2025-09-02T22:00:00Z"
+                    },
+                    {
+                        "title": "Mr. Bean: The Animated Series",
+                        "Series Number": "4",
+                        "Episode Number": "21",
+                        "startTime": "2025-09-02T22:00:00Z",
+                        "endTime": "2025-09-02T22:10:00Z"
+                    },
+                    {
+                        "title": "Mr. Bean: The Animated Series",
+                        "Series Number": "6",
+                        "Episode Number": "22",
+                        "startTime": "2025-09-02T22:10:00Z",
+                        "endTime": "2025-09-02T22:20:00Z"
+                    },
+                    {
+                        "title": "Mr. Bean: The Animated Series",
+                        "Series Number": "4",
+                        "Episode Number": "23",
+                        "startTime": "2025-09-02T22:20:00Z",
+                        "endTime": "2025-09-02T22:30:00Z"
+                    },
+                    {
+                        "title": "Mr. Bean: The Animated Series",
+                        "Series Number": "4",
+                        "Episode Number": "24",
+                        "startTime": "2025-09-02T22:30:00Z",
+                        "endTime": "2025-09-02T22:59:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "19",
+                        "startTime": "2025-09-02T22:59:00Z",
+                        "endTime": "2025-09-02T23:10:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "20",
+                        "startTime": "2025-09-02T23:10:00Z",
+                        "endTime": "2025-09-02T23:20:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "9",
+                        "Episode Number": "21",
+                        "startTime": "2025-09-02T23:20:00Z",
+                        "endTime": "2025-09-02T23:30:00Z"
+                    },
+                    {
+                        "title": "Kris Roll No 21",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T23:30:00Z",
+                        "endTime": "2025-09-02T23:42:00Z"
+                    },
+                    {
+                        "title": "Kris Roll No 21",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T23:42:00Z",
+                        "endTime": "2025-09-02T23:54:00Z"
+                    },
+                    {
+                        "title": "Kris Roll No 21",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T23:54:00Z",
+                        "endTime": "2025-09-03T00:06:00Z"
+                    }
+                ]
+            },
+            {
+                "channelId": "159124",
+                "channelName": "Sonic Nickelodeon",
+                "programs": [
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T01:00:00Z",
+                        "endTime": "2025-09-02T02:00:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T02:00:00Z",
+                        "endTime": "2025-09-02T02:30:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T02:30:00Z",
+                        "endTime": "2025-09-02T06:00:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T06:00:00Z",
+                        "endTime": "2025-09-02T07:00:00Z"
+                    },
+                    {
+                        "title": "Pak Pak Pakau",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T07:00:00Z",
+                        "endTime": "2025-09-02T07:15:00Z"
+                    },
+                    {
+                        "title": "Pinaki & Happy - The Bhoot Bandhus",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T07:15:00Z",
+                        "endTime": "2025-09-02T08:00:00Z"
+                    },
+                    {
+                        "title": "Zig & Sharko",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T08:00:00Z",
+                        "endTime": "2025-09-02T10:00:00Z"
+                    },
+                    {
+                        "title": "Pinaki & Happy - The Bhoot Bandhus",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T10:00:00Z",
+                        "endTime": "2025-09-02T11:00:00Z"
+                    },
+                    {
+                        "title": "Zig & Sharko",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T11:00:00Z",
+                        "endTime": "2025-09-02T16:00:00Z"
+                    },
+                    {
+                        "title": "Pinaki & Happy - The Bhoot Bandhus",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T16:00:00Z",
+                        "endTime": "2025-09-02T17:00:00Z"
+                    },
+                    {
+                        "title": "Pinaki & Happy - In The Bhoot World",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T17:00:00Z",
+                        "endTime": "2025-09-02T17:30:00Z"
+                    },
+                    {
+                        "title": "Pinaki & Happy - In The Bhoot World",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T17:30:00Z",
+                        "endTime": "2025-09-02T18:00:00Z"
+                    },
+                    {
+                        "title": "Zig & Sharko",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T18:00:00Z",
+                        "endTime": "2025-09-02T18:30:00Z"
+                    },
+                    {
+                        "title": "Zig & Sharko",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T18:30:00Z",
+                        "endTime": "2025-09-02T19:00:00Z"
+                    },
+                    {
+                        "title": "Bittu Bahanebaaz",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T19:00:00Z",
+                        "endTime": "2025-09-02T19:30:00Z"
+                    },
+                    {
+                        "title": "Bittu Bahanebaaz",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T19:30:00Z",
+                        "endTime": "2025-09-02T20:00:00Z"
+                    },
+                    {
+                        "title": "Zig & Sharko",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T20:00:00Z",
+                        "endTime": "2025-09-02T21:00:00Z"
+                    },
+                    {
+                        "title": "Pinaki & Happy - The Bhoot Bandhus",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T21:00:00Z",
+                        "endTime": "2025-09-02T23:00:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T23:00:00Z",
+                        "endTime": "2025-09-03T01:00:00Z"
+                    }
+                ]
+            },
+            {
+                "channelId": "159100",
+                "channelName": "SONY YAY",
+                "programs": [
+                    {
+                        "title": "Honey Bunny Ka Jholmaal Hai",
+                        "Series Number": "1",
+                        "Episode Number": "118",
+                        "startTime": "2025-09-02T00:03:00Z",
+                        "endTime": "2025-09-02T00:14:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal Hai",
+                        "Series Number": "1",
+                        "Episode Number": "119",
+                        "startTime": "2025-09-02T00:14:00Z",
+                        "endTime": "2025-09-02T00:26:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal Hai",
+                        "Series Number": "1",
+                        "Episode Number": "120",
+                        "startTime": "2025-09-02T00:26:00Z",
+                        "endTime": "2025-09-02T00:37:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "121",
+                        "startTime": "2025-09-02T00:37:00Z",
+                        "endTime": "2025-09-02T00:47:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "122",
+                        "startTime": "2025-09-02T00:47:00Z",
+                        "endTime": "2025-09-02T00:58:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "123",
+                        "startTime": "2025-09-02T00:58:00Z",
+                        "endTime": "2025-09-02T01:09:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "124",
+                        "startTime": "2025-09-02T01:09:00Z",
+                        "endTime": "2025-09-02T01:18:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "125",
+                        "startTime": "2025-09-02T01:18:00Z",
+                        "endTime": "2025-09-02T01:28:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "126",
+                        "startTime": "2025-09-02T01:28:00Z",
+                        "endTime": "2025-09-02T01:38:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "127",
+                        "startTime": "2025-09-02T01:38:00Z",
+                        "endTime": "2025-09-02T01:48:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "128",
+                        "startTime": "2025-09-02T01:48:00Z",
+                        "endTime": "2025-09-02T01:58:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "129",
+                        "startTime": "2025-09-02T01:58:00Z",
+                        "endTime": "2025-09-02T02:07:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "130",
+                        "startTime": "2025-09-02T02:07:00Z",
+                        "endTime": "2025-09-02T02:18:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "131",
+                        "startTime": "2025-09-02T02:18:00Z",
+                        "endTime": "2025-09-02T02:29:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "132",
+                        "startTime": "2025-09-02T02:29:00Z",
+                        "endTime": "2025-09-02T02:40:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "133",
+                        "startTime": "2025-09-02T02:40:00Z",
+                        "endTime": "2025-09-02T02:52:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "134",
+                        "startTime": "2025-09-02T02:52:00Z",
+                        "endTime": "2025-09-02T03:03:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal Hai",
+                        "Series Number": "1",
+                        "Episode Number": "135",
+                        "startTime": "2025-09-02T03:03:00Z",
+                        "endTime": "2025-09-02T03:12:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "136",
+                        "startTime": "2025-09-02T03:12:00Z",
+                        "endTime": "2025-09-02T03:23:00Z"
+                    },
+                    {
+                        "title": "Haste Raho Henry",
+                        "Series Number": "1",
+                        "Episode Number": "29",
+                        "startTime": "2025-09-02T03:23:00Z",
+                        "endTime": "2025-09-02T03:33:00Z"
+                    },
+                    {
+                        "title": "Haste Raho Henry",
+                        "Series Number": "1",
+                        "Episode Number": "3",
+                        "startTime": "2025-09-02T03:33:00Z",
+                        "endTime": "2025-09-02T03:43:00Z"
+                    },
+                    {
+                        "title": "Haste Raho Henry",
+                        "Series Number": "1",
+                        "Episode Number": "30",
+                        "startTime": "2025-09-02T03:43:00Z",
+                        "endTime": "2025-09-02T03:53:00Z"
+                    },
+                    {
+                        "title": "Haste Raho Henry",
+                        "Series Number": "1",
+                        "Episode Number": "31",
+                        "startTime": "2025-09-02T03:53:00Z",
+                        "endTime": "2025-09-02T04:03:00Z"
+                    },
+                    {
+                        "title": "Haste Raho Henry",
+                        "Series Number": "1",
+                        "Episode Number": "32",
+                        "startTime": "2025-09-02T04:03:00Z",
+                        "endTime": "2025-09-02T04:13:00Z"
+                    },
+                    {
+                        "title": "Haste Raho Henry",
+                        "Series Number": "1",
+                        "Episode Number": "33",
+                        "startTime": "2025-09-02T04:13:00Z",
+                        "endTime": "2025-09-02T04:23:00Z"
+                    },
+                    {
+                        "title": "Haste Raho Henry",
+                        "Series Number": "1",
+                        "Episode Number": "34",
+                        "startTime": "2025-09-02T04:23:00Z",
+                        "endTime": "2025-09-02T04:33:00Z"
+                    },
+                    {
+                        "title": "Haste Raho Henry",
+                        "Series Number": "1",
+                        "Episode Number": "24",
+                        "startTime": "2025-09-02T04:33:00Z",
+                        "endTime": "2025-09-02T04:43:00Z"
+                    },
+                    {
+                        "title": "Haste Raho Henry",
+                        "Series Number": "1",
+                        "Episode Number": "25",
+                        "startTime": "2025-09-02T04:43:00Z",
+                        "endTime": "2025-09-02T04:53:00Z"
+                    },
+                    {
+                        "title": "Haste Raho Henry",
+                        "Series Number": "1",
+                        "Episode Number": "26",
+                        "startTime": "2025-09-02T04:53:00Z",
+                        "endTime": "2025-09-02T05:03:00Z"
+                    },
+                    {
+                        "title": "Haste Raho Henry",
+                        "Series Number": "1",
+                        "Episode Number": "27",
+                        "startTime": "2025-09-02T05:03:00Z",
+                        "endTime": "2025-09-02T05:13:00Z"
+                    },
+                    {
+                        "title": "Haste Raho Henry",
+                        "Series Number": "1",
+                        "Episode Number": "28",
+                        "startTime": "2025-09-02T05:13:00Z",
+                        "endTime": "2025-09-02T05:23:00Z"
+                    },
+                    {
+                        "title": "Haste Raho Henry",
+                        "Series Number": "1",
+                        "Episode Number": "29",
+                        "startTime": "2025-09-02T05:23:00Z",
+                        "endTime": "2025-09-02T05:33:00Z"
+                    },
+                    {
+                        "title": "Haste Raho Henry",
+                        "Series Number": "1",
+                        "Episode Number": "30",
+                        "startTime": "2025-09-02T05:33:00Z",
+                        "endTime": "2025-09-02T05:43:00Z"
+                    },
+                    {
+                        "title": "Haste Raho Henry",
+                        "Series Number": "1",
+                        "Episode Number": "12",
+                        "startTime": "2025-09-02T05:43:00Z",
+                        "endTime": "2025-09-02T06:00:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "38",
+                        "startTime": "2025-09-02T06:00:00Z",
+                        "endTime": "2025-09-02T06:15:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "39",
+                        "startTime": "2025-09-02T06:15:00Z",
+                        "endTime": "2025-09-02T06:25:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "40",
+                        "startTime": "2025-09-02T06:25:00Z",
+                        "endTime": "2025-09-02T06:36:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "41",
+                        "startTime": "2025-09-02T06:36:00Z",
+                        "endTime": "2025-09-02T06:47:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "42",
+                        "startTime": "2025-09-02T06:47:00Z",
+                        "endTime": "2025-09-02T06:59:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "596",
+                        "startTime": "2025-09-02T06:59:00Z",
+                        "endTime": "2025-09-02T07:19:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "609",
+                        "startTime": "2025-09-02T07:19:00Z",
+                        "endTime": "2025-09-02T07:24:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "610",
+                        "startTime": "2025-09-02T07:24:00Z",
+                        "endTime": "2025-09-02T07:32:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "611",
+                        "startTime": "2025-09-02T07:32:00Z",
+                        "endTime": "2025-09-02T07:39:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "612",
+                        "startTime": "2025-09-02T07:39:00Z",
+                        "endTime": "2025-09-02T07:45:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "32",
+                        "startTime": "2025-09-02T07:45:00Z",
+                        "endTime": "2025-09-02T07:52:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "37",
+                        "startTime": "2025-09-02T07:52:00Z",
+                        "endTime": "2025-09-02T07:59:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "601",
+                        "startTime": "2025-09-02T07:59:00Z",
+                        "endTime": "2025-09-02T08:19:00Z"
+                    },
+                    {
+                        "title": "Shinchan in Rakuga Kingdom",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T08:19:00Z",
+                        "endTime": "2025-09-02T10:15:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "2",
+                        "startTime": "2025-09-02T10:15:00Z",
+                        "endTime": "2025-09-02T10:37:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "7",
+                        "startTime": "2025-09-02T10:37:00Z",
+                        "endTime": "2025-09-02T10:44:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "22",
+                        "startTime": "2025-09-02T10:44:00Z",
+                        "endTime": "2025-09-02T10:51:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "27",
+                        "startTime": "2025-09-02T10:51:00Z",
+                        "endTime": "2025-09-02T10:58:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "42",
+                        "startTime": "2025-09-02T10:58:00Z",
+                        "endTime": "2025-09-02T11:05:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "47",
+                        "startTime": "2025-09-02T11:05:00Z",
+                        "endTime": "2025-09-02T11:12:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "52",
+                        "startTime": "2025-09-02T11:12:00Z",
+                        "endTime": "2025-09-02T11:19:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "57",
+                        "startTime": "2025-09-02T11:19:00Z",
+                        "endTime": "2025-09-02T11:26:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "62",
+                        "startTime": "2025-09-02T11:26:00Z",
+                        "endTime": "2025-09-02T11:40:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "68",
+                        "startTime": "2025-09-02T11:40:00Z",
+                        "endTime": "2025-09-02T11:47:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "78",
+                        "startTime": "2025-09-02T11:47:00Z",
+                        "endTime": "2025-09-02T11:54:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "73",
+                        "startTime": "2025-09-02T11:54:00Z",
+                        "endTime": "2025-09-02T12:00:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "593",
+                        "startTime": "2025-09-02T12:00:00Z",
+                        "endTime": "2025-09-02T12:09:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "12",
+                        "startTime": "2025-09-02T12:09:00Z",
+                        "endTime": "2025-09-02T12:29:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "17",
+                        "startTime": "2025-09-02T12:29:00Z",
+                        "endTime": "2025-09-02T12:38:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "588",
+                        "startTime": "2025-09-02T12:38:00Z",
+                        "endTime": "2025-09-02T12:46:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "583",
+                        "startTime": "2025-09-02T12:46:00Z",
+                        "endTime": "2025-09-02T12:54:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "578",
+                        "startTime": "2025-09-02T12:54:00Z",
+                        "endTime": "2025-09-02T12:59:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "573",
+                        "startTime": "2025-09-02T12:59:00Z",
+                        "endTime": "2025-09-02T13:05:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "568",
+                        "startTime": "2025-09-02T13:05:00Z",
+                        "endTime": "2025-09-02T13:11:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "563",
+                        "startTime": "2025-09-02T13:11:00Z",
+                        "endTime": "2025-09-02T13:19:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "558",
+                        "startTime": "2025-09-02T13:19:00Z",
+                        "endTime": "2025-09-02T13:26:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "554",
+                        "startTime": "2025-09-02T13:26:00Z",
+                        "endTime": "2025-09-02T13:34:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "543",
+                        "startTime": "2025-09-02T13:34:00Z",
+                        "endTime": "2025-09-02T13:41:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "538",
+                        "startTime": "2025-09-02T13:41:00Z",
+                        "endTime": "2025-09-02T14:02:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "533",
+                        "startTime": "2025-09-02T14:02:00Z",
+                        "endTime": "2025-09-02T14:08:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "528",
+                        "startTime": "2025-09-02T14:08:00Z",
+                        "endTime": "2025-09-02T14:15:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "523",
+                        "startTime": "2025-09-02T14:15:00Z",
+                        "endTime": "2025-09-02T14:23:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "515",
+                        "startTime": "2025-09-02T14:23:00Z",
+                        "endTime": "2025-09-02T14:30:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "549",
+                        "startTime": "2025-09-02T14:30:00Z",
+                        "endTime": "2025-09-02T14:51:00Z"
+                    },
+                    {
+                        "title": "Sinchan-Bakumori! Kung Fu Boys",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T14:51:00Z",
+                        "endTime": "2025-09-02T17:00:00Z"
+                    },
+                    {
+                        "title": "Shin chan The Legend Called: Dance! Amigo",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T17:00:00Z",
+                        "endTime": "2025-09-02T18:39:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "18",
+                        "Episode Number": "4",
+                        "startTime": "2025-09-02T18:39:00Z",
+                        "endTime": "2025-09-02T19:01:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "18",
+                        "Episode Number": "24",
+                        "startTime": "2025-09-02T19:01:00Z",
+                        "endTime": "2025-09-02T19:23:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "18",
+                        "Episode Number": "29",
+                        "startTime": "2025-09-02T19:23:00Z",
+                        "endTime": "2025-09-02T19:30:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "18",
+                        "Episode Number": "34",
+                        "startTime": "2025-09-02T19:30:00Z",
+                        "endTime": "2025-09-02T19:37:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "18",
+                        "Episode Number": "39",
+                        "startTime": "2025-09-02T19:37:00Z",
+                        "endTime": "2025-09-02T19:44:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "18",
+                        "Episode Number": "44",
+                        "startTime": "2025-09-02T19:44:00Z",
+                        "endTime": "2025-09-02T19:51:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "18",
+                        "Episode Number": "49",
+                        "startTime": "2025-09-02T19:51:00Z",
+                        "endTime": "2025-09-02T20:05:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "18",
+                        "Episode Number": "54",
+                        "startTime": "2025-09-02T20:05:00Z",
+                        "endTime": "2025-09-02T20:12:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "18",
+                        "Episode Number": "59",
+                        "startTime": "2025-09-02T20:12:00Z",
+                        "endTime": "2025-09-02T20:19:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "18",
+                        "Episode Number": "64",
+                        "startTime": "2025-09-02T20:19:00Z",
+                        "endTime": "2025-09-02T20:26:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "18",
+                        "Episode Number": "70",
+                        "startTime": "2025-09-02T20:26:00Z",
+                        "endTime": "2025-09-02T20:33:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "18",
+                        "Episode Number": "75",
+                        "startTime": "2025-09-02T20:33:00Z",
+                        "endTime": "2025-09-02T20:40:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "18",
+                        "Episode Number": "19",
+                        "startTime": "2025-09-02T20:40:00Z",
+                        "endTime": "2025-09-02T20:59:00Z"
+                    },
+                    {
+                        "title": "Naruto: Shippuden",
+                        "Series Number": "1",
+                        "Episode Number": "235",
+                        "startTime": "2025-09-02T20:59:00Z",
+                        "endTime": "2025-09-02T21:19:00Z"
+                    },
+                    {
+                        "title": "Naruto: Shippuden",
+                        "Series Number": "1",
+                        "Episode Number": "236",
+                        "startTime": "2025-09-02T21:19:00Z",
+                        "endTime": "2025-09-02T21:53:00Z"
+                    },
+                    {
+                        "title": "Naruto",
+                        "Series Number": "1",
+                        "Episode Number": "38",
+                        "startTime": "2025-09-02T21:53:00Z",
+                        "endTime": "2025-09-02T22:12:00Z"
+                    },
+                    {
+                        "title": "Naruto",
+                        "Series Number": "1",
+                        "Episode Number": "39",
+                        "startTime": "2025-09-02T22:12:00Z",
+                        "endTime": "2025-09-02T22:32:00Z"
+                    },
+                    {
+                        "title": "The Weakest Tamer Began a Journey to Pick up Trash",
+                        "Series Number": "1",
+                        "Episode Number": "8",
+                        "startTime": "2025-09-02T22:32:00Z",
+                        "endTime": "2025-09-02T23:08:00Z"
+                    },
+                    {
+                        "title": "Naruto: Shippuden",
+                        "Series Number": "1",
+                        "Episode Number": "49",
+                        "startTime": "2025-09-02T23:08:00Z",
+                        "endTime": "2025-09-02T23:27:00Z"
+                    },
+                    {
+                        "title": "Naruto: Shippuden",
+                        "Series Number": "1",
+                        "Episode Number": "50",
+                        "startTime": "2025-09-02T23:27:00Z",
+                        "endTime": "2025-09-02T23:58:00Z"
+                    }
+                ]
+            },
+            {
+                "channelId": "143025",
+                "channelName": "ETV Bal Bharat",
+                "programs": [
+                    {
+                        "title": "Songs",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T00:00:00Z",
+                        "endTime": "2025-09-02T06:00:00Z"
+                    },
+                    {
+                        "title": "Moral Story",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T06:00:00Z",
+                        "endTime": "2025-09-02T06:30:00Z"
+                    },
+                    {
+                        "title": "PAW Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T06:30:00Z",
+                        "endTime": "2025-09-02T07:00:00Z"
+                    },
+                    {
+                        "title": "PAW Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T07:00:00Z",
+                        "endTime": "2025-09-02T07:30:00Z"
+                    },
+                    {
+                        "title": "PAW Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T07:30:00Z",
+                        "endTime": "2025-09-02T08:00:00Z"
+                    },
+                    {
+                        "title": "PAW Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T08:00:00Z",
+                        "endTime": "2025-09-02T08:30:00Z"
+                    },
+                    {
+                        "title": "PAW Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T08:30:00Z",
+                        "endTime": "2025-09-02T09:00:00Z"
+                    },
+                    {
+                        "title": "PAW Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T09:00:00Z",
+                        "endTime": "2025-09-02T09:30:00Z"
+                    },
+                    {
+                        "title": "PAW Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T09:30:00Z",
+                        "endTime": "2025-09-02T10:00:00Z"
+                    },
+                    {
+                        "title": "PAW Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T10:00:00Z",
+                        "endTime": "2025-09-02T10:30:00Z"
+                    },
+                    {
+                        "title": "PAW Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T10:30:00Z",
+                        "endTime": "2025-09-02T11:00:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T11:00:00Z",
+                        "endTime": "2025-09-02T11:30:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T11:30:00Z",
+                        "endTime": "2025-09-02T12:00:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T12:00:00Z",
+                        "endTime": "2025-09-02T12:30:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T12:30:00Z",
+                        "endTime": "2025-09-02T13:00:00Z"
+                    },
+                    {
+                        "title": "Golmaal Jr",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T13:00:00Z",
+                        "endTime": "2025-09-02T13:30:00Z"
+                    },
+                    {
+                        "title": "Golmaal Jr",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T13:30:00Z",
+                        "endTime": "2025-09-02T14:00:00Z"
+                    },
+                    {
+                        "title": "Golmaal Jr",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T14:00:00Z",
+                        "endTime": "2025-09-02T14:30:00Z"
+                    },
+                    {
+                        "title": "Golmaal Jr",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T14:30:00Z",
+                        "endTime": "2025-09-02T15:00:00Z"
+                    },
+                    {
+                        "title": "Rudra",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T15:00:00Z",
+                        "endTime": "2025-09-02T15:30:00Z"
+                    },
+                    {
+                        "title": "Rudra",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T15:30:00Z",
+                        "endTime": "2025-09-02T16:00:00Z"
+                    },
+                    {
+                        "title": "Rudra",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T16:00:00Z",
+                        "endTime": "2025-09-02T16:30:00Z"
+                    },
+                    {
+                        "title": "Rudra",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T16:30:00Z",
+                        "endTime": "2025-09-02T17:00:00Z"
+                    },
+                    {
+                        "title": "Shiva Vs Storm Falcon",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T17:00:00Z",
+                        "endTime": "2025-09-02T17:30:00Z"
+                    },
+                    {
+                        "title": "Shiva Vs Storm Falcon",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T17:30:00Z",
+                        "endTime": "2025-09-02T18:00:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T18:00:00Z",
+                        "endTime": "2025-09-02T18:30:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T18:30:00Z",
+                        "endTime": "2025-09-02T19:00:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T19:00:00Z",
+                        "endTime": "2025-09-02T19:30:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T19:30:00Z",
+                        "endTime": "2025-09-02T20:00:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T20:00:00Z",
+                        "endTime": "2025-09-02T20:30:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T20:30:00Z",
+                        "endTime": "2025-09-02T21:00:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T21:00:00Z",
+                        "endTime": "2025-09-02T21:30:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T21:30:00Z",
+                        "endTime": "2025-09-02T22:00:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T22:00:00Z",
+                        "endTime": "2025-09-02T22:30:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T22:30:00Z",
+                        "endTime": "2025-09-02T23:00:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T23:00:00Z",
+                        "endTime": "2025-09-02T23:30:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T23:30:00Z",
+                        "endTime": "2025-09-03T00:00:00Z"
+                    }
+                ]
+            },
+            {
+                "channelId": "157820",
+                "channelName": "Nick Jr",
+                "programs": [
+                    {
+                        "title": "Rusty Rivets",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T02:00:00Z",
+                        "endTime": "2025-09-02T06:00:00Z"
+                    },
+                    {
+                        "title": "DORA",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T06:00:00Z",
+                        "endTime": "2025-09-02T07:30:00Z"
+                    },
+                    {
+                        "title": "Butterbean's Caf\u00e9",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T07:30:00Z",
+                        "endTime": "2025-09-02T09:00:00Z"
+                    },
+                    {
+                        "title": "Peppa Pig",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T09:00:00Z",
+                        "endTime": "2025-09-02T09:30:00Z"
+                    },
+                    {
+                        "title": "Peppa Pig",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T09:30:00Z",
+                        "endTime": "2025-09-02T10:00:00Z"
+                    },
+                    {
+                        "title": "Peppa Pig",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T10:00:00Z",
+                        "endTime": "2025-09-02T11:00:00Z"
+                    },
+                    {
+                        "title": "PAW Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T11:00:00Z",
+                        "endTime": "2025-09-02T11:30:00Z"
+                    },
+                    {
+                        "title": "PAW Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T11:30:00Z",
+                        "endTime": "2025-09-02T12:00:00Z"
+                    },
+                    {
+                        "title": "Masha and the Bear",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T12:00:00Z",
+                        "endTime": "2025-09-02T12:30:00Z"
+                    },
+                    {
+                        "title": "Masha and the Bear",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T12:30:00Z",
+                        "endTime": "2025-09-02T13:00:00Z"
+                    },
+                    {
+                        "title": "Masha and the Bear",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T13:00:00Z",
+                        "endTime": "2025-09-02T15:00:00Z"
+                    },
+                    {
+                        "title": "Butterbean's Caf\u00e9",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T15:00:00Z",
+                        "endTime": "2025-09-02T15:30:00Z"
+                    },
+                    {
+                        "title": "Butterbean's Caf\u00e9",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T15:30:00Z",
+                        "endTime": "2025-09-02T16:00:00Z"
+                    },
+                    {
+                        "title": "Butterbean's Caf\u00e9",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T16:00:00Z",
+                        "endTime": "2025-09-02T17:00:00Z"
+                    },
+                    {
+                        "title": "Masha and the Bear",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T17:00:00Z",
+                        "endTime": "2025-09-02T19:00:00Z"
+                    },
+                    {
+                        "title": "Peppa Pig",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T19:00:00Z",
+                        "endTime": "2025-09-02T23:00:00Z"
+                    },
+                    {
+                        "title": "Shimmer and Shine",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T23:00:00Z",
+                        "endTime": "2025-09-03T02:00:00Z"
+                    }
+                ]
+            },
+            {
+                "channelId": "142990",
+                "channelName": "Disney Junior",
+                "programs": [
+                    {
+                        "title": "The Lion Guard",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T03:00:00Z",
+                        "endTime": "2025-09-02T06:00:00Z"
+                    },
+                    {
+                        "title": "PJ Masks",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T06:00:00Z",
+                        "endTime": "2025-09-02T07:00:00Z"
+                    },
+                    {
+                        "title": "Mickey Mouse Funhouse",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T07:00:00Z",
+                        "endTime": "2025-09-02T09:30:00Z"
+                    },
+                    {
+                        "title": "Pupstruction",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T09:30:00Z",
+                        "endTime": "2025-09-02T10:00:00Z"
+                    },
+                    {
+                        "title": "Pupstruction",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T10:00:00Z",
+                        "endTime": "2025-09-02T11:00:00Z"
+                    },
+                    {
+                        "title": "Bluey",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T11:00:00Z",
+                        "endTime": "2025-09-02T11:30:00Z"
+                    },
+                    {
+                        "title": "Bluey",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T11:30:00Z",
+                        "endTime": "2025-09-02T12:00:00Z"
+                    },
+                    {
+                        "title": "Bluey",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T12:00:00Z",
+                        "endTime": "2025-09-02T14:00:00Z"
+                    },
+                    {
+                        "title": "Mickey Mouse Funhouse",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T14:00:00Z",
+                        "endTime": "2025-09-02T14:30:00Z"
+                    },
+                    {
+                        "title": "Alice's Wonderland Bakery",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T14:30:00Z",
+                        "endTime": "2025-09-02T15:00:00Z"
+                    },
+                    {
+                        "title": "Alice's Wonderland Bakery",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T15:00:00Z",
+                        "endTime": "2025-09-02T15:30:00Z"
+                    },
+                    {
+                        "title": "Mickey Mouse Funhouse",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T15:30:00Z",
+                        "endTime": "2025-09-02T16:00:00Z"
+                    },
+                    {
+                        "title": "Pupstruction",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T16:00:00Z",
+                        "endTime": "2025-09-02T17:00:00Z"
+                    },
+                    {
+                        "title": "Bluey",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T17:00:00Z",
+                        "endTime": "2025-09-02T20:00:00Z"
+                    },
+                    {
+                        "title": "Mickey Mouse Clubhouse: Super Adventure",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T20:00:00Z",
+                        "endTime": "2025-09-02T23:00:00Z"
+                    },
+                    {
+                        "title": "Doc McStuffins",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T23:00:00Z",
+                        "endTime": "2025-09-03T03:00:00Z"
+                    }
+                ]
+            },
+            {
+                "channelId": "143150",
+                "channelName": "Hungama",
+                "programs": [
+                    {
+                        "title": "Atashinchi",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T01:00:00Z",
+                        "endTime": "2025-09-02T06:00:00Z"
+                    },
+                    {
+                        "title": "Atashinchi",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T06:00:00Z",
+                        "endTime": "2025-09-02T07:00:00Z"
+                    },
+                    {
+                        "title": "Selfie With Bajrangi",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T07:00:00Z",
+                        "endTime": "2025-09-02T09:00:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T09:00:00Z",
+                        "endTime": "2025-09-02T17:30:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T17:30:00Z",
+                        "endTime": "2025-09-02T18:00:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T18:00:00Z",
+                        "endTime": "2025-09-02T21:00:00Z"
+                    },
+                    {
+                        "title": "Pokemon Horizons",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T21:00:00Z",
+                        "endTime": "2025-09-02T22:00:00Z"
+                    },
+                    {
+                        "title": "Selfie With Bajrangi",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T22:00:00Z",
+                        "endTime": "2025-09-02T23:00:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T23:00:00Z",
+                        "endTime": "2025-09-03T01:00:00Z"
+                    }
+                ]
+            },
+            {
+                "channelId": "142739",
+                "channelName": "Chutti TV",
+                "programs": []
+            },
+            {
+                "channelId": "143269",
+                "channelName": "Kochu TV",
+                "programs": []
+            },
+            {
+                "channelId": "142737",
+                "channelName": "Chintu TV",
+                "programs": []
+            },
+            {
+                "channelId": "158843",
+                "channelName": "Disney Channel HD",
+                "programs": [
+                    {
+                        "title": "PJ Masks",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T06:00:00Z",
+                        "endTime": "2025-09-02T07:00:00Z"
+                    },
+                    {
+                        "title": "PJ Masks",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T07:00:00Z",
+                        "endTime": "2025-09-02T08:30:00Z"
+                    },
+                    {
+                        "title": "PJ Masks",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T08:30:00Z",
+                        "endTime": "2025-09-02T09:00:00Z"
+                    },
+                    {
+                        "title": "Mickey Mouse Clubhouse: Super Adventure",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T09:00:00Z",
+                        "endTime": "2025-09-02T11:00:00Z"
+                    },
+                    {
+                        "title": "Doraemon",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T11:00:00Z",
+                        "endTime": "2025-09-02T11:30:00Z"
+                    },
+                    {
+                        "title": "Doraemon",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T11:30:00Z",
+                        "endTime": "2025-09-02T13:30:00Z"
+                    },
+                    {
+                        "title": "Miraculous: Tales of Ladybug & Cat Noir",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T13:30:00Z",
+                        "endTime": "2025-09-02T14:00:00Z"
+                    },
+                    {
+                        "title": "Miraculous: Tales of Ladybug & Cat Noir",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T14:00:00Z",
+                        "endTime": "2025-09-02T15:30:00Z"
+                    },
+                    {
+                        "title": "Moka",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T15:30:00Z",
+                        "endTime": "2025-09-02T16:00:00Z"
+                    },
+                    {
+                        "title": "Moka",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T16:00:00Z",
+                        "endTime": "2025-09-02T16:30:00Z"
+                    },
+                    {
+                        "title": "Mickey Mouse Clubhouse: Super Adventure",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T16:30:00Z",
+                        "endTime": "2025-09-02T17:00:00Z"
+                    },
+                    {
+                        "title": "Mickey Mouse Clubhouse: Super Adventure",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T17:00:00Z",
+                        "endTime": "2025-09-02T18:30:00Z"
+                    },
+                    {
+                        "title": "Doraemon",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T18:30:00Z",
+                        "endTime": "2025-09-02T21:30:00Z"
+                    },
+                    {
+                        "title": "PJ Masks",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T21:30:00Z",
+                        "endTime": "2025-09-02T23:00:00Z"
+                    },
+                    {
+                        "title": "Doraemon",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T23:00:00Z",
+                        "endTime": "2025-09-03T06:00:00Z"
+                    }
+                ]
+            },
+            {
+                "channelId": "159014",
+                "channelName": "Gubbare",
+                "programs": [
+                    {
+                        "title": "Akki Jaanbaaz",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T00:00:00Z",
+                        "endTime": "2025-09-02T00:30:00Z"
+                    },
+                    {
+                        "title": "Akki Jaanbaaz",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T00:30:00Z",
+                        "endTime": "2025-09-02T01:00:00Z"
+                    },
+                    {
+                        "title": "Asuras",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T01:00:00Z",
+                        "endTime": "2025-09-02T01:30:00Z"
+                    },
+                    {
+                        "title": "Asuras",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T01:30:00Z",
+                        "endTime": "2025-09-02T02:00:00Z"
+                    },
+                    {
+                        "title": "Asuras",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T02:00:00Z",
+                        "endTime": "2025-09-02T02:30:00Z"
+                    },
+                    {
+                        "title": "Asuras",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T02:30:00Z",
+                        "endTime": "2025-09-02T03:00:00Z"
+                    },
+                    {
+                        "title": "Akki Jaanbaaz",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T03:00:00Z",
+                        "endTime": "2025-09-02T03:30:00Z"
+                    },
+                    {
+                        "title": "Akki Jaanbaaz",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T03:30:00Z",
+                        "endTime": "2025-09-02T04:00:00Z"
+                    },
+                    {
+                        "title": "Asuras",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T04:00:00Z",
+                        "endTime": "2025-09-02T04:30:00Z"
+                    },
+                    {
+                        "title": "Asuras",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T04:30:00Z",
+                        "endTime": "2025-09-02T05:00:00Z"
+                    },
+                    {
+                        "title": "Asuras",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T05:00:00Z",
+                        "endTime": "2025-09-02T05:30:00Z"
+                    },
+                    {
+                        "title": "Asuras",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T05:30:00Z",
+                        "endTime": "2025-09-02T06:00:00Z"
+                    },
+                    {
+                        "title": "Akki Jaanbaaz",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T06:00:00Z",
+                        "endTime": "2025-09-02T06:30:00Z"
+                    },
+                    {
+                        "title": "Akki Jaanbaaz",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T06:30:00Z",
+                        "endTime": "2025-09-02T07:00:00Z"
+                    },
+                    {
+                        "title": "Kicko & Super Speedo",
+                        "Series Number": "2",
+                        "Episode Number": "33",
+                        "startTime": "2025-09-02T07:00:00Z",
+                        "endTime": "2025-09-02T07:30:00Z"
+                    },
+                    {
+                        "title": "Kicko & Super Speedo",
+                        "Series Number": "3",
+                        "Episode Number": "14",
+                        "startTime": "2025-09-02T07:30:00Z",
+                        "endTime": "2025-09-02T08:00:00Z"
+                    },
+                    {
+                        "title": "Ninja Hattori",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T08:00:00Z",
+                        "endTime": "2025-09-02T08:30:00Z"
+                    },
+                    {
+                        "title": "Ninja Hattori",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T08:30:00Z",
+                        "endTime": "2025-09-02T09:00:00Z"
+                    },
+                    {
+                        "title": "Ninja Hattori",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T09:00:00Z",
+                        "endTime": "2025-09-02T09:30:00Z"
+                    },
+                    {
+                        "title": "Ninja Hattori",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T09:30:00Z",
+                        "endTime": "2025-09-02T10:00:00Z"
+                    },
+                    {
+                        "title": "Ninja Hattori",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T10:00:00Z",
+                        "endTime": "2025-09-02T10:30:00Z"
+                    },
+                    {
+                        "title": "PAW Patrol",
+                        "Series Number": "1",
+                        "Episode Number": "3",
+                        "startTime": "2025-09-02T10:30:00Z",
+                        "endTime": "2025-09-02T11:00:00Z"
+                    },
+                    {
+                        "title": "PAW Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T11:00:00Z",
+                        "endTime": "2025-09-02T11:30:00Z"
+                    },
+                    {
+                        "title": "PAW Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T11:30:00Z",
+                        "endTime": "2025-09-02T12:00:00Z"
+                    },
+                    {
+                        "title": "PAW Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T12:00:00Z",
+                        "endTime": "2025-09-02T12:30:00Z"
+                    },
+                    {
+                        "title": "Guru Aur Bhole",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T12:30:00Z",
+                        "endTime": "2025-09-02T13:00:00Z"
+                    },
+                    {
+                        "title": "Guru Aur Bhole",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T13:00:00Z",
+                        "endTime": "2025-09-02T13:30:00Z"
+                    },
+                    {
+                        "title": "Guru Aur Bhole",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T13:30:00Z",
+                        "endTime": "2025-09-02T14:00:00Z"
+                    },
+                    {
+                        "title": "Guru Aur Bhole",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T14:00:00Z",
+                        "endTime": "2025-09-02T14:30:00Z"
+                    },
+                    {
+                        "title": "Guru Aur Bhole",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T14:30:00Z",
+                        "endTime": "2025-09-02T15:00:00Z"
+                    },
+                    {
+                        "title": "Guru Aur Bhole",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T15:00:00Z",
+                        "endTime": "2025-09-02T15:30:00Z"
+                    },
+                    {
+                        "title": "Guru Aur Bhole",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T15:30:00Z",
+                        "endTime": "2025-09-02T16:00:00Z"
+                    },
+                    {
+                        "title": "Guru Aur Bhole",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T16:00:00Z",
+                        "endTime": "2025-09-02T16:30:00Z"
+                    },
+                    {
+                        "title": "PAW Patrol",
+                        "Series Number": "1",
+                        "Episode Number": "24",
+                        "startTime": "2025-09-02T16:30:00Z",
+                        "endTime": "2025-09-02T17:00:00Z"
+                    },
+                    {
+                        "title": "PAW Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T17:00:00Z",
+                        "endTime": "2025-09-02T17:30:00Z"
+                    },
+                    {
+                        "title": "PAW Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T17:30:00Z",
+                        "endTime": "2025-09-02T18:00:00Z"
+                    },
+                    {
+                        "title": "PAW Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T18:00:00Z",
+                        "endTime": "2025-09-02T18:30:00Z"
+                    },
+                    {
+                        "title": "Ninja Hattori",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T18:30:00Z",
+                        "endTime": "2025-09-02T19:00:00Z"
+                    },
+                    {
+                        "title": "Ninja Hattori",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T19:00:00Z",
+                        "endTime": "2025-09-02T19:30:00Z"
+                    },
+                    {
+                        "title": "Ninja Hattori",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T19:30:00Z",
+                        "endTime": "2025-09-02T20:00:00Z"
+                    },
+                    {
+                        "title": "Ninja Hattori",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2025-09-02T20:00:00Z",
+                        "endTime": "2025-09-02T20:30:00Z"
+                    },
+                    {
+                        "title": "Kicko & Super Speedo",
+                        "Series Number": "1",
+                        "Episode Number": "10",
+                        "startTime": "2025-09-02T20:30:00Z",
+                        "endTime": "2025-09-02T21:00:00Z"
+                    },
+                    {
+                        "title": "Kicko & Super Speedo",
+                        "Series Number": "2",
+                        "Episode Number": "31",
+                        "startTime": "2025-09-02T21:00:00Z",
+                        "endTime": "2025-09-02T21:30:00Z"
+                    },
+                    {
+                        "title": "Kicko & Super Speedo",
+                        "Series Number": "3",
+                        "Episode Number": "1",
+                        "startTime": "2025-09-02T21:30:00Z",
+                        "endTime": "2025-09-02T22:00:00Z"
+                    },
+                    {
+                        "title": "Kicko & Super Speedo",
+                        "Series Number": "4",
+                        "Episode Number": "23",
+                        "startTime": "2025-09-02T22:00:00Z",
+                        "endTime": "2025-09-02T22:30:00Z"
+                    },
+                    {
+                        "title": "Kicko & Super Speedo",
+                        "Series Number": "1",
+                        "Episode Number": "10",
+                        "startTime": "2025-09-02T22:30:00Z",
+                        "endTime": "2025-09-02T23:00:00Z"
+                    },
+                    {
+                        "title": "Mighty Raju",
+                        "Series Number": "1",
+                        "Episode Number": "14",
+                        "startTime": "2025-09-02T23:00:00Z",
+                        "endTime": "2025-09-02T23:30:00Z"
+                    },
+                    {
+                        "title": "Mighty Raju",
+                        "Series Number": "1",
+                        "Episode Number": "12",
+                        "startTime": "2025-09-02T23:30:00Z",
+                        "endTime": "2025-09-03T00:00:00Z"
+                    }
+                ]
+            },
+            {
+                "channelId": "143012",
+                "channelName": "DTAMIL",
+                "programs": []
+            }
         ]
     }
 }

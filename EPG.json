@@ -1542308,6 +1542308,103 @@
                     }
                 ]
             }
+        ],
+        "2026-10-12": [
+            {
+                "channelId": "143883",
+                "channelName": "Super Hungama",
+                "programs": []
+            },
+            {
+                "channelId": "159012",
+                "channelName": "Disney",
+                "programs": []
+            },
+            {
+                "channelId": "159121",
+                "channelName": "Nick HD+",
+                "programs": []
+            },
+            {
+                "channelId": "143625",
+                "channelName": "Nick",
+                "programs": []
+            },
+            {
+                "channelId": "157576",
+                "channelName": "Cartoon Network",
+                "programs": []
+            },
+            {
+                "channelId": "143663",
+                "channelName": "Pogo",
+                "programs": []
+            },
+            {
+                "channelId": "159011",
+                "channelName": "Discovery Kids",
+                "programs": []
+            },
+            {
+                "channelId": "159124",
+                "channelName": "Sonic Nickelodeon",
+                "programs": []
+            },
+            {
+                "channelId": "159100",
+                "channelName": "SONY YAY",
+                "programs": []
+            },
+            {
+                "channelId": "143025",
+                "channelName": "ETV Bal Bharat",
+                "programs": []
+            },
+            {
+                "channelId": "157820",
+                "channelName": "Nick Jr",
+                "programs": []
+            },
+            {
+                "channelId": "142990",
+                "channelName": "Disney Junior",
+                "programs": []
+            },
+            {
+                "channelId": "143150",
+                "channelName": "Hungama",
+                "programs": []
+            },
+            {
+                "channelId": "142739",
+                "channelName": "Chutti TV",
+                "programs": []
+            },
+            {
+                "channelId": "143269",
+                "channelName": "Kochu TV",
+                "programs": []
+            },
+            {
+                "channelId": "142737",
+                "channelName": "Chintu TV",
+                "programs": []
+            },
+            {
+                "channelId": "158843",
+                "channelName": "Disney Channel HD",
+                "programs": []
+            },
+            {
+                "channelId": "159014",
+                "channelName": "Gubbare",
+                "programs": []
+            },
+            {
+                "channelId": "143012",
+                "channelName": "DTAMIL",
+                "programs": []
+            }
         ]
     }
 }

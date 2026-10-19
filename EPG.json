@@ -1564342,6 +1564342,4385 @@
                     }
                 ]
             }
+        ],
+        "2026-10-19": [
+            {
+                "channelId": "143883",
+                "channelName": "Super Hungama",
+                "programs": [
+                    {
+                        "title": "Pokemon",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T00:00:00Z",
+                        "endTime": "2026-10-19T04:00:00Z"
+                    },
+                    {
+                        "title": "Pokemon",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T04:00:00Z",
+                        "endTime": "2026-10-19T06:00:00Z"
+                    },
+                    {
+                        "title": "Pokemon",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T06:00:00Z",
+                        "endTime": "2026-10-19T07:00:00Z"
+                    },
+                    {
+                        "title": "Chuck Chicken",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T07:00:00Z",
+                        "endTime": "2026-10-19T08:00:00Z"
+                    },
+                    {
+                        "title": "Pokemon",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T08:00:00Z",
+                        "endTime": "2026-10-19T11:00:00Z"
+                    },
+                    {
+                        "title": "Pokemon",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T11:00:00Z",
+                        "endTime": "2026-10-19T14:00:00Z"
+                    },
+                    {
+                        "title": "Pokemon",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T14:00:00Z",
+                        "endTime": "2026-10-19T18:00:00Z"
+                    },
+                    {
+                        "title": "Pokemon",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T18:00:00Z",
+                        "endTime": "2026-10-19T20:00:00Z"
+                    },
+                    {
+                        "title": "Pokemon",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T20:00:00Z",
+                        "endTime": "2026-10-19T23:00:00Z"
+                    },
+                    {
+                        "title": "Chuck Chicken",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T23:00:00Z",
+                        "endTime": "2026-10-20T00:00:00Z"
+                    }
+                ]
+            },
+            {
+                "channelId": "159012",
+                "channelName": "Disney",
+                "programs": [
+                    {
+                        "title": "Perman",
+                        "Series Number": "1",
+                        "Episode Number": "401",
+                        "startTime": "2026-10-19T05:00:00Z",
+                        "endTime": "2026-10-19T06:00:00Z"
+                    },
+                    {
+                        "title": "Perman",
+                        "Series Number": "1",
+                        "Episode Number": "401",
+                        "startTime": "2026-10-19T06:00:00Z",
+                        "endTime": "2026-10-19T07:00:00Z"
+                    },
+                    {
+                        "title": "Doraemon",
+                        "Series Number": "1",
+                        "Episode Number": "437",
+                        "startTime": "2026-10-19T07:00:00Z",
+                        "endTime": "2026-10-19T09:00:00Z"
+                    },
+                    {
+                        "title": "Doraemon",
+                        "Series Number": "1",
+                        "Episode Number": "437",
+                        "startTime": "2026-10-19T09:00:00Z",
+                        "endTime": "2026-10-19T09:30:00Z"
+                    },
+                    {
+                        "title": "Doraemon: Nobita's Secret Gadget Museum",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T09:30:00Z",
+                        "endTime": "2026-10-19T11:30:00Z"
+                    },
+                    {
+                        "title": "Jungle Tales with Mowgli",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T11:30:00Z",
+                        "endTime": "2026-10-19T12:00:00Z"
+                    },
+                    {
+                        "title": "Doraemon: The Record of Nobita's Spaceblazer",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T12:00:00Z",
+                        "endTime": "2026-10-19T14:00:00Z"
+                    },
+                    {
+                        "title": "Jungle Tales with Mowgli",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T14:00:00Z",
+                        "endTime": "2026-10-19T14:30:00Z"
+                    },
+                    {
+                        "title": "Doraemon",
+                        "Series Number": "1",
+                        "Episode Number": "437",
+                        "startTime": "2026-10-19T14:30:00Z",
+                        "endTime": "2026-10-19T17:30:00Z"
+                    },
+                    {
+                        "title": "Golmaal Jr",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T17:30:00Z",
+                        "endTime": "2026-10-19T18:00:00Z"
+                    },
+                    {
+                        "title": "Doraemon",
+                        "Series Number": "1",
+                        "Episode Number": "437",
+                        "startTime": "2026-10-19T18:00:00Z",
+                        "endTime": "2026-10-19T19:00:00Z"
+                    },
+                    {
+                        "title": "Doraemon",
+                        "Series Number": "1",
+                        "Episode Number": "438",
+                        "startTime": "2026-10-19T19:00:00Z",
+                        "endTime": "2026-10-19T19:30:00Z"
+                    },
+                    {
+                        "title": "Doraemon",
+                        "Series Number": "1",
+                        "Episode Number": "438",
+                        "startTime": "2026-10-19T19:30:00Z",
+                        "endTime": "2026-10-19T23:00:00Z"
+                    },
+                    {
+                        "title": "Perman",
+                        "Series Number": "1",
+                        "Episode Number": "401",
+                        "startTime": "2026-10-19T23:00:00Z",
+                        "endTime": "2026-10-20T05:00:00Z"
+                    }
+                ]
+            },
+            {
+                "channelId": "159121",
+                "channelName": "Nick HD+",
+                "programs": [
+                    {
+                        "title": "Gattu Aur Battu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T00:00:00Z",
+                        "endTime": "2026-10-19T00:30:00Z"
+                    },
+                    {
+                        "title": "Gattu Aur Battu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T00:30:00Z",
+                        "endTime": "2026-10-19T01:00:00Z"
+                    },
+                    {
+                        "title": "Gattu Aur Battu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T01:00:00Z",
+                        "endTime": "2026-10-19T01:30:00Z"
+                    },
+                    {
+                        "title": "Gattu Aur Battu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T01:30:00Z",
+                        "endTime": "2026-10-19T02:00:00Z"
+                    },
+                    {
+                        "title": "Gattu Aur Battu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T02:00:00Z",
+                        "endTime": "2026-10-19T02:30:00Z"
+                    },
+                    {
+                        "title": "Gattu Aur Battu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T02:30:00Z",
+                        "endTime": "2026-10-19T03:00:00Z"
+                    },
+                    {
+                        "title": "Gattu Aur Battu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T03:00:00Z",
+                        "endTime": "2026-10-19T03:30:00Z"
+                    },
+                    {
+                        "title": "Gattu Aur Battu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T03:30:00Z",
+                        "endTime": "2026-10-19T04:00:00Z"
+                    },
+                    {
+                        "title": "Gattu Aur Battu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T04:00:00Z",
+                        "endTime": "2026-10-19T04:30:00Z"
+                    },
+                    {
+                        "title": "Gattu Aur Battu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T04:30:00Z",
+                        "endTime": "2026-10-19T05:00:00Z"
+                    },
+                    {
+                        "title": "Gattu Aur Battu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T05:00:00Z",
+                        "endTime": "2026-10-19T05:30:00Z"
+                    },
+                    {
+                        "title": "Gattu Aur Battu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T05:30:00Z",
+                        "endTime": "2026-10-19T06:00:00Z"
+                    },
+                    {
+                        "title": "Gattu Aur Battu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T06:00:00Z",
+                        "endTime": "2026-10-19T06:30:00Z"
+                    },
+                    {
+                        "title": "Gattu Aur Battu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T06:30:00Z",
+                        "endTime": "2026-10-19T07:00:00Z"
+                    },
+                    {
+                        "title": "Daaduji",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T07:00:00Z",
+                        "endTime": "2026-10-19T07:15:00Z"
+                    },
+                    {
+                        "title": "Dussehra Carnival With Motu Patlu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T07:15:00Z",
+                        "endTime": "2026-10-19T07:30:00Z"
+                    },
+                    {
+                        "title": "Dussehra Carnival With Motu Patlu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T07:30:00Z",
+                        "endTime": "2026-10-19T08:00:00Z"
+                    },
+                    {
+                        "title": "Dussehra Carnival With Rudra-Boom Chik Chik Boom",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T08:00:00Z",
+                        "endTime": "2026-10-19T08:30:00Z"
+                    },
+                    {
+                        "title": "Dussehra Carnival With Rudra-Boom Chik Chik Boom",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T08:30:00Z",
+                        "endTime": "2026-10-19T09:00:00Z"
+                    },
+                    {
+                        "title": "Bittu Bahanebaaz",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T09:00:00Z",
+                        "endTime": "2026-10-19T10:00:00Z"
+                    },
+                    {
+                        "title": "Dussehra Carnival With Chikoo Aur Bunty",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T10:00:00Z",
+                        "endTime": "2026-10-19T10:30:00Z"
+                    },
+                    {
+                        "title": "Chikoo Aur Bunty- Siblings Not Allowed",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T10:30:00Z",
+                        "endTime": "2026-10-19T11:30:00Z"
+                    },
+                    {
+                        "title": "Dussehra Carnival With Chikoo Aur Bunty",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T11:30:00Z",
+                        "endTime": "2026-10-19T12:00:00Z"
+                    },
+                    {
+                        "title": "Dussehra Carnival With Chikoo Aur Bunty",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T12:00:00Z",
+                        "endTime": "2026-10-19T12:30:00Z"
+                    },
+                    {
+                        "title": "Dussehra Carnival With Chikoo Aur Bunty",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T12:30:00Z",
+                        "endTime": "2026-10-19T13:00:00Z"
+                    },
+                    {
+                        "title": "Dussehra Carnival With Motu Patlu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T13:00:00Z",
+                        "endTime": "2026-10-19T13:30:00Z"
+                    },
+                    {
+                        "title": "Motu Patlu Birthday Blast",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T13:30:00Z",
+                        "endTime": "2026-10-19T14:00:00Z"
+                    },
+                    {
+                        "title": "Motu Patlu In Alien World",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T14:00:00Z",
+                        "endTime": "2026-10-19T15:30:00Z"
+                    },
+                    {
+                        "title": "Dussehra Carnival With Motu Patlu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T15:30:00Z",
+                        "endTime": "2026-10-19T16:00:00Z"
+                    },
+                    {
+                        "title": "Dussehra Carnival With Motu Patlu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T16:00:00Z",
+                        "endTime": "2026-10-19T16:30:00Z"
+                    },
+                    {
+                        "title": "Motu Patlu: The Invisible Plane",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T16:30:00Z",
+                        "endTime": "2026-10-19T18:00:00Z"
+                    },
+                    {
+                        "title": "Dussehra Carnival With Chikoo Aur Bunty",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T18:00:00Z",
+                        "endTime": "2026-10-19T18:30:00Z"
+                    },
+                    {
+                        "title": "Dussehra Carnival With Chikoo Aur Bunty",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T18:30:00Z",
+                        "endTime": "2026-10-19T19:00:00Z"
+                    },
+                    {
+                        "title": "Dussehra Carnival With Chikoo Aur Bunty",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T19:00:00Z",
+                        "endTime": "2026-10-19T19:30:00Z"
+                    },
+                    {
+                        "title": "Dussehra Carnival With Chikoo Aur Bunty",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T19:30:00Z",
+                        "endTime": "2026-10-19T20:00:00Z"
+                    },
+                    {
+                        "title": "Dussehra Carnival With Motu Patlu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T20:00:00Z",
+                        "endTime": "2026-10-19T20:30:00Z"
+                    },
+                    {
+                        "title": "Dussehra Carnival With Motu Patlu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T20:30:00Z",
+                        "endTime": "2026-10-19T21:00:00Z"
+                    },
+                    {
+                        "title": "Dussehra Carnival With Rudra-Boom Chik Chik Boom",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T21:00:00Z",
+                        "endTime": "2026-10-19T21:30:00Z"
+                    },
+                    {
+                        "title": "Dussehra Carnival With Rudra-Boom Chik Chik Boom",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T21:30:00Z",
+                        "endTime": "2026-10-19T22:00:00Z"
+                    },
+                    {
+                        "title": "Dussehra Carnival With Motu Patlu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T22:00:00Z",
+                        "endTime": "2026-10-19T22:30:00Z"
+                    },
+                    {
+                        "title": "Dussehra Carnival With Motu Patlu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T22:30:00Z",
+                        "endTime": "2026-10-19T23:00:00Z"
+                    },
+                    {
+                        "title": "Gattu Aur Battu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T23:00:00Z",
+                        "endTime": "2026-10-19T23:30:00Z"
+                    },
+                    {
+                        "title": "Gattu Aur Battu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T23:30:00Z",
+                        "endTime": "2026-10-20T00:00:00Z"
+                    }
+                ]
+            },
+            {
+                "channelId": "143625",
+                "channelName": "Nick",
+                "programs": [
+                    {
+                        "title": "Gattu Aur Battu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T01:00:00Z",
+                        "endTime": "2026-10-19T02:00:00Z"
+                    },
+                    {
+                        "title": "Gattu Aur Battu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T02:00:00Z",
+                        "endTime": "2026-10-19T02:30:00Z"
+                    },
+                    {
+                        "title": "Gattu Aur Battu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T02:30:00Z",
+                        "endTime": "2026-10-19T06:00:00Z"
+                    },
+                    {
+                        "title": "Gattu Aur Battu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T06:00:00Z",
+                        "endTime": "2026-10-19T07:00:00Z"
+                    },
+                    {
+                        "title": "Daaduji",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T07:00:00Z",
+                        "endTime": "2026-10-19T07:15:00Z"
+                    },
+                    {
+                        "title": "Motu Patlu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T07:15:00Z",
+                        "endTime": "2026-10-19T09:00:00Z"
+                    },
+                    {
+                        "title": "Bittu Bahanebaaz",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T09:00:00Z",
+                        "endTime": "2026-10-19T10:00:00Z"
+                    },
+                    {
+                        "title": "Chikoo Aur Bunty",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T10:00:00Z",
+                        "endTime": "2026-10-19T10:30:00Z"
+                    },
+                    {
+                        "title": "Chikoo Aur Bunty- Siblings Not Allowed",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T10:30:00Z",
+                        "endTime": "2026-10-19T11:30:00Z"
+                    },
+                    {
+                        "title": "Chikoo Aur Bunty",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T11:30:00Z",
+                        "endTime": "2026-10-19T13:00:00Z"
+                    },
+                    {
+                        "title": "Motu Patlu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T13:00:00Z",
+                        "endTime": "2026-10-19T13:30:00Z"
+                    },
+                    {
+                        "title": "Motu Patlu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T13:30:00Z",
+                        "endTime": "2026-10-19T14:00:00Z"
+                    },
+                    {
+                        "title": "Motu Patlu In Alien World",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T14:00:00Z",
+                        "endTime": "2026-10-19T15:30:00Z"
+                    },
+                    {
+                        "title": "Motu Patlu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T15:30:00Z",
+                        "endTime": "2026-10-19T16:30:00Z"
+                    },
+                    {
+                        "title": "Motu Patlu: The Invisible Plane",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T16:30:00Z",
+                        "endTime": "2026-10-19T18:00:00Z"
+                    },
+                    {
+                        "title": "Chikoo Aur Bunty",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T18:00:00Z",
+                        "endTime": "2026-10-19T20:00:00Z"
+                    },
+                    {
+                        "title": "Motu Patlu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T20:00:00Z",
+                        "endTime": "2026-10-19T23:00:00Z"
+                    },
+                    {
+                        "title": "Gattu Aur Battu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T23:00:00Z",
+                        "endTime": "2026-10-20T01:00:00Z"
+                    }
+                ]
+            },
+            {
+                "channelId": "157576",
+                "channelName": "Cartoon Network",
+                "programs": [
+                    {
+                        "title": "Hunter X Hunter",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T01:00:00Z",
+                        "endTime": "2026-10-19T02:00:00Z"
+                    },
+                    {
+                        "title": "One Piece",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T02:00:00Z",
+                        "endTime": "2026-10-19T04:00:00Z"
+                    },
+                    {
+                        "title": "Kiteretsu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T04:00:00Z",
+                        "endTime": "2026-10-19T06:00:00Z"
+                    },
+                    {
+                        "title": "We Bare Bears",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T06:00:00Z",
+                        "endTime": "2026-10-19T07:00:00Z"
+                    },
+                    {
+                        "title": "Larva Family",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T07:00:00Z",
+                        "endTime": "2026-10-19T07:30:00Z"
+                    },
+                    {
+                        "title": "Larva Family",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T07:30:00Z",
+                        "endTime": "2026-10-19T08:00:00Z"
+                    },
+                    {
+                        "title": "Larva Family",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T08:00:00Z",
+                        "endTime": "2026-10-19T08:30:00Z"
+                    },
+                    {
+                        "title": "Larva Pendant",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T08:30:00Z",
+                        "endTime": "2026-10-19T09:00:00Z"
+                    },
+                    {
+                        "title": "Larva in Mars",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T09:00:00Z",
+                        "endTime": "2026-10-19T09:20:00Z"
+                    },
+                    {
+                        "title": "Larva in Mars",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T09:20:00Z",
+                        "endTime": "2026-10-19T09:30:00Z"
+                    },
+                    {
+                        "title": "Looney Tunes Cartoons",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T09:30:00Z",
+                        "endTime": "2026-10-19T11:30:00Z"
+                    },
+                    {
+                        "title": "Looney Tunes Cartoons",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T11:30:00Z",
+                        "endTime": "2026-10-19T12:00:00Z"
+                    },
+                    {
+                        "title": "The Jungle Book",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T12:00:00Z",
+                        "endTime": "2026-10-19T12:30:00Z"
+                    },
+                    {
+                        "title": "The Jungle Book",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T12:30:00Z",
+                        "endTime": "2026-10-19T14:30:00Z"
+                    },
+                    {
+                        "title": "Teen Titans GO!",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T14:30:00Z",
+                        "endTime": "2026-10-19T15:00:00Z"
+                    },
+                    {
+                        "title": "Teen Titans GO!",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T15:00:00Z",
+                        "endTime": "2026-10-19T15:30:00Z"
+                    },
+                    {
+                        "title": "Teen Titans GO!",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T15:30:00Z",
+                        "endTime": "2026-10-19T16:30:00Z"
+                    },
+                    {
+                        "title": "Teen Titans GO!",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T16:30:00Z",
+                        "endTime": "2026-10-19T17:30:00Z"
+                    },
+                    {
+                        "title": "Teen Titans GO!",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T17:30:00Z",
+                        "endTime": "2026-10-19T18:00:00Z"
+                    },
+                    {
+                        "title": "Teen Titans GO!",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T18:00:00Z",
+                        "endTime": "2026-10-19T18:30:00Z"
+                    },
+                    {
+                        "title": "Teen Titans Go! Vs. Teen Titans",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T18:30:00Z",
+                        "endTime": "2026-10-19T19:30:00Z"
+                    },
+                    {
+                        "title": "Teen Titans GO! to the Movies",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T19:30:00Z",
+                        "endTime": "2026-10-19T20:30:00Z"
+                    },
+                    {
+                        "title": "Teen Titans GO!",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T20:30:00Z",
+                        "endTime": "2026-10-19T21:00:00Z"
+                    },
+                    {
+                        "title": "Teen Titans GO!",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T21:00:00Z",
+                        "endTime": "2026-10-19T21:30:00Z"
+                    },
+                    {
+                        "title": "Looney Tunes Cartoons",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T21:30:00Z",
+                        "endTime": "2026-10-19T22:30:00Z"
+                    },
+                    {
+                        "title": "Omi No.1",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T22:30:00Z",
+                        "endTime": "2026-10-19T23:00:00Z"
+                    },
+                    {
+                        "title": "Omi No.1",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T23:00:00Z",
+                        "endTime": "2026-10-19T23:30:00Z"
+                    },
+                    {
+                        "title": "Bionic Max",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T23:30:00Z",
+                        "endTime": "2026-10-20T01:00:00Z"
+                    }
+                ]
+            },
+            {
+                "channelId": "143663",
+                "channelName": "Pogo",
+                "programs": [
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T00:00:00Z",
+                        "endTime": "2026-10-19T01:00:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "1",
+                        "Episode Number": "2",
+                        "startTime": "2026-10-19T01:00:00Z",
+                        "endTime": "2026-10-19T02:00:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T02:00:00Z",
+                        "endTime": "2026-10-19T02:12:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T02:12:00Z",
+                        "endTime": "2026-10-19T02:24:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T02:24:00Z",
+                        "endTime": "2026-10-19T02:36:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T02:36:00Z",
+                        "endTime": "2026-10-19T02:48:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T02:48:00Z",
+                        "endTime": "2026-10-19T03:00:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T03:00:00Z",
+                        "endTime": "2026-10-19T03:12:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T03:12:00Z",
+                        "endTime": "2026-10-19T03:24:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T03:24:00Z",
+                        "endTime": "2026-10-19T03:36:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T03:36:00Z",
+                        "endTime": "2026-10-19T03:48:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T03:48:00Z",
+                        "endTime": "2026-10-19T04:00:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T04:00:00Z",
+                        "endTime": "2026-10-19T04:12:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T04:12:00Z",
+                        "endTime": "2026-10-19T04:24:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T04:24:00Z",
+                        "endTime": "2026-10-19T04:36:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T04:36:00Z",
+                        "endTime": "2026-10-19T04:48:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T04:48:00Z",
+                        "endTime": "2026-10-19T05:00:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T05:00:00Z",
+                        "endTime": "2026-10-19T06:00:00Z"
+                    },
+                    {
+                        "title": "Chhota Bheem",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T06:00:00Z",
+                        "endTime": "2026-10-19T07:00:00Z"
+                    },
+                    {
+                        "title": "Little Krishna",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T07:00:00Z",
+                        "endTime": "2026-10-19T07:30:00Z"
+                    },
+                    {
+                        "title": "Little Krishna Medleys",
+                        "Series Number": "1",
+                        "Episode Number": "4",
+                        "startTime": "2026-10-19T07:30:00Z",
+                        "endTime": "2026-10-19T08:30:00Z"
+                    },
+                    {
+                        "title": "Little Krishna",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T08:30:00Z",
+                        "endTime": "2026-10-19T09:00:00Z"
+                    },
+                    {
+                        "title": "Little Krishna",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T09:00:00Z",
+                        "endTime": "2026-10-19T09:30:00Z"
+                    },
+                    {
+                        "title": "Cb Kirmadaverse Part01",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T09:30:00Z",
+                        "endTime": "2026-10-19T10:15:00Z"
+                    },
+                    {
+                        "title": "Cb Kirmadaverse Part02",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T10:15:00Z",
+                        "endTime": "2026-10-19T11:00:00Z"
+                    },
+                    {
+                        "title": "Bheemverse",
+                        "Series Number": "1",
+                        "Episode Number": "3",
+                        "startTime": "2026-10-19T11:00:00Z",
+                        "endTime": "2026-10-19T12:00:00Z"
+                    },
+                    {
+                        "title": "Chhota Bheem",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T12:00:00Z",
+                        "endTime": "2026-10-19T12:30:00Z"
+                    },
+                    {
+                        "title": "Chhota Bheem: The Curious Case Of Swapped Souls",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T12:30:00Z",
+                        "endTime": "2026-10-19T13:30:00Z"
+                    },
+                    {
+                        "title": "Little Singham Saat Lok Ke Par",
+                        "Series Number": "1",
+                        "Episode Number": "1",
+                        "startTime": "2026-10-19T13:30:00Z",
+                        "endTime": "2026-10-19T14:15:00Z"
+                    },
+                    {
+                        "title": "Little Singham Saat Lok Ke Par",
+                        "Series Number": "1",
+                        "Episode Number": "2",
+                        "startTime": "2026-10-19T14:15:00Z",
+                        "endTime": "2026-10-19T15:00:00Z"
+                    },
+                    {
+                        "title": "Little Singham Saat Lok Ke Par",
+                        "Series Number": "1",
+                        "Episode Number": "3",
+                        "startTime": "2026-10-19T15:00:00Z",
+                        "endTime": "2026-10-19T15:30:00Z"
+                    },
+                    {
+                        "title": "Grizzy and the Lemmings",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T15:30:00Z",
+                        "endTime": "2026-10-19T16:00:00Z"
+                    },
+                    {
+                        "title": "Grizzy and the Lemmings",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T16:00:00Z",
+                        "endTime": "2026-10-19T16:30:00Z"
+                    },
+                    {
+                        "title": "Grizzy and the Lemmings",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T16:30:00Z",
+                        "endTime": "2026-10-19T17:00:00Z"
+                    },
+                    {
+                        "title": "Grizzy and The Lemmings: World Tour",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T17:00:00Z",
+                        "endTime": "2026-10-19T17:30:00Z"
+                    },
+                    {
+                        "title": "Grizzy and the Lemmings",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T17:30:00Z",
+                        "endTime": "2026-10-19T18:00:00Z"
+                    },
+                    {
+                        "title": "Grizzy and the Lemmings",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T18:00:00Z",
+                        "endTime": "2026-10-19T18:30:00Z"
+                    },
+                    {
+                        "title": "Sampat Champat",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T18:30:00Z",
+                        "endTime": "2026-10-19T19:00:00Z"
+                    },
+                    {
+                        "title": "Mighty Little Bheem",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T19:00:00Z",
+                        "endTime": "2026-10-19T19:30:00Z"
+                    },
+                    {
+                        "title": "Mighty Little Bheem",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T19:30:00Z",
+                        "endTime": "2026-10-19T20:00:00Z"
+                    },
+                    {
+                        "title": "Mighty Little Bheem",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T20:00:00Z",
+                        "endTime": "2026-10-19T20:30:00Z"
+                    },
+                    {
+                        "title": "Mighty Little Bheem",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T20:30:00Z",
+                        "endTime": "2026-10-19T21:00:00Z"
+                    },
+                    {
+                        "title": "Mighty Little Bheem",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T21:00:00Z",
+                        "endTime": "2026-10-19T21:30:00Z"
+                    },
+                    {
+                        "title": "Mighty Little Bheem",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T21:30:00Z",
+                        "endTime": "2026-10-19T22:00:00Z"
+                    },
+                    {
+                        "title": "Mighty Little Bheem",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T22:00:00Z",
+                        "endTime": "2026-10-19T22:30:00Z"
+                    },
+                    {
+                        "title": "Chhota Bheem",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T22:30:00Z",
+                        "endTime": "2026-10-19T23:00:00Z"
+                    },
+                    {
+                        "title": "Chhota Bheem",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T23:00:00Z",
+                        "endTime": "2026-10-19T23:30:00Z"
+                    },
+                    {
+                        "title": "Chhota Bheem",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T23:30:00Z",
+                        "endTime": "2026-10-20T00:00:00Z"
+                    }
+                ]
+            },
+            {
+                "channelId": "159011",
+                "channelName": "Discovery Kids",
+                "programs": [
+                    {
+                        "title": "Little Singham",
+                        "Series Number": "1",
+                        "Episode Number": "56",
+                        "startTime": "2026-10-19T00:06:00Z",
+                        "endTime": "2026-10-19T00:18:00Z"
+                    },
+                    {
+                        "title": "Little Singham",
+                        "Series Number": "1",
+                        "Episode Number": "57",
+                        "startTime": "2026-10-19T00:18:00Z",
+                        "endTime": "2026-10-19T00:30:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "3",
+                        "Episode Number": "19",
+                        "startTime": "2026-10-19T00:30:00Z",
+                        "endTime": "2026-10-19T00:53:00Z"
+                    },
+                    {
+                        "title": "Haddi Mera Buddy",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T00:53:00Z",
+                        "endTime": "2026-10-19T01:00:00Z"
+                    },
+                    {
+                        "title": "Little Singham",
+                        "Series Number": "6",
+                        "Episode Number": "22",
+                        "startTime": "2026-10-19T01:00:00Z",
+                        "endTime": "2026-10-19T01:12:00Z"
+                    },
+                    {
+                        "title": "Little Singham",
+                        "Series Number": "6",
+                        "Episode Number": "23",
+                        "startTime": "2026-10-19T01:12:00Z",
+                        "endTime": "2026-10-19T01:24:00Z"
+                    },
+                    {
+                        "title": "Little Singham",
+                        "Series Number": "6",
+                        "Episode Number": "24",
+                        "startTime": "2026-10-19T01:24:00Z",
+                        "endTime": "2026-10-19T01:36:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T01:36:00Z",
+                        "endTime": "2026-10-19T01:48:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T01:48:00Z",
+                        "endTime": "2026-10-19T02:00:00Z"
+                    },
+                    {
+                        "title": "Fukrey Boyzzz",
+                        "Series Number": "1",
+                        "Episode Number": "6",
+                        "startTime": "2026-10-19T02:00:00Z",
+                        "endTime": "2026-10-19T02:12:00Z"
+                    },
+                    {
+                        "title": "Fukrey Boyzzz",
+                        "Series Number": "1",
+                        "Episode Number": "7",
+                        "startTime": "2026-10-19T02:12:00Z",
+                        "endTime": "2026-10-19T02:24:00Z"
+                    },
+                    {
+                        "title": "Fukrey Boyzzz",
+                        "Series Number": "1",
+                        "Episode Number": "8",
+                        "startTime": "2026-10-19T02:24:00Z",
+                        "endTime": "2026-10-19T02:36:00Z"
+                    },
+                    {
+                        "title": "Fukrey Boyzzz",
+                        "Series Number": "1",
+                        "Episode Number": "9",
+                        "startTime": "2026-10-19T02:36:00Z",
+                        "endTime": "2026-10-19T02:48:00Z"
+                    },
+                    {
+                        "title": "Fukrey Boyzzz",
+                        "Series Number": "1",
+                        "Episode Number": "10",
+                        "startTime": "2026-10-19T02:48:00Z",
+                        "endTime": "2026-10-19T03:00:00Z"
+                    },
+                    {
+                        "title": "Little Singham",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T03:00:00Z",
+                        "endTime": "2026-10-19T03:12:00Z"
+                    },
+                    {
+                        "title": "Little Singham",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T03:12:00Z",
+                        "endTime": "2026-10-19T03:24:00Z"
+                    },
+                    {
+                        "title": "Little Singham",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T03:24:00Z",
+                        "endTime": "2026-10-19T03:36:00Z"
+                    },
+                    {
+                        "title": "Little Singham",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T03:36:00Z",
+                        "endTime": "2026-10-19T03:48:00Z"
+                    },
+                    {
+                        "title": "Little Singham",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T03:48:00Z",
+                        "endTime": "2026-10-19T04:00:00Z"
+                    },
+                    {
+                        "title": "Little Singham",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T04:00:00Z",
+                        "endTime": "2026-10-19T04:12:00Z"
+                    },
+                    {
+                        "title": "Little Singham",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T04:12:00Z",
+                        "endTime": "2026-10-19T04:24:00Z"
+                    },
+                    {
+                        "title": "Little Singham",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T04:24:00Z",
+                        "endTime": "2026-10-19T04:36:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T04:36:00Z",
+                        "endTime": "2026-10-19T04:48:00Z"
+                    },
+                    {
+                        "title": "Smaashhing Simmba",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T04:48:00Z",
+                        "endTime": "2026-10-19T05:00:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "3",
+                        "Episode Number": "20",
+                        "startTime": "2026-10-19T05:00:00Z",
+                        "endTime": "2026-10-19T05:30:00Z"
+                    },
+                    {
+                        "title": "Kris Roll No 21",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T05:30:00Z",
+                        "endTime": "2026-10-19T05:40:00Z"
+                    },
+                    {
+                        "title": "Kris Roll No 21",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T05:40:00Z",
+                        "endTime": "2026-10-19T05:50:00Z"
+                    },
+                    {
+                        "title": "Kris Roll No 21",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T05:50:00Z",
+                        "endTime": "2026-10-19T06:00:00Z"
+                    },
+                    {
+                        "title": "Kris Roll No 21",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T06:00:00Z",
+                        "endTime": "2026-10-19T06:12:00Z"
+                    },
+                    {
+                        "title": "Kris Roll No 21",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T06:12:00Z",
+                        "endTime": "2026-10-19T06:24:00Z"
+                    },
+                    {
+                        "title": "Kris Roll No 21",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T06:24:00Z",
+                        "endTime": "2026-10-19T06:36:00Z"
+                    },
+                    {
+                        "title": "Kris Roll No 21",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T06:36:00Z",
+                        "endTime": "2026-10-19T06:48:00Z"
+                    },
+                    {
+                        "title": "Kris Roll No 21",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T06:48:00Z",
+                        "endTime": "2026-10-19T06:59:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "1",
+                        "startTime": "2026-10-19T06:59:00Z",
+                        "endTime": "2026-10-19T07:28:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "2",
+                        "startTime": "2026-10-19T07:28:00Z",
+                        "endTime": "2026-10-19T07:39:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "3",
+                        "startTime": "2026-10-19T07:39:00Z",
+                        "endTime": "2026-10-19T07:50:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "4",
+                        "startTime": "2026-10-19T07:50:00Z",
+                        "endTime": "2026-10-19T08:01:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "5",
+                        "startTime": "2026-10-19T08:01:00Z",
+                        "endTime": "2026-10-19T08:28:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "6",
+                        "startTime": "2026-10-19T08:28:00Z",
+                        "endTime": "2026-10-19T08:39:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "7",
+                        "startTime": "2026-10-19T08:39:00Z",
+                        "endTime": "2026-10-19T08:50:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "8",
+                        "startTime": "2026-10-19T08:50:00Z",
+                        "endTime": "2026-10-19T09:01:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "9",
+                        "startTime": "2026-10-19T09:01:00Z",
+                        "endTime": "2026-10-19T09:28:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "10",
+                        "startTime": "2026-10-19T09:28:00Z",
+                        "endTime": "2026-10-19T09:40:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "11",
+                        "startTime": "2026-10-19T09:40:00Z",
+                        "endTime": "2026-10-19T09:52:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "12",
+                        "startTime": "2026-10-19T09:52:00Z",
+                        "endTime": "2026-10-19T10:03:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "13",
+                        "startTime": "2026-10-19T10:03:00Z",
+                        "endTime": "2026-10-19T10:15:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "3",
+                        "Episode Number": "9",
+                        "startTime": "2026-10-19T10:15:00Z",
+                        "endTime": "2026-10-19T10:38:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "14",
+                        "startTime": "2026-10-19T10:38:00Z",
+                        "endTime": "2026-10-19T10:49:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "15",
+                        "startTime": "2026-10-19T10:49:00Z",
+                        "endTime": "2026-10-19T11:00:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "3",
+                        "Episode Number": "20",
+                        "startTime": "2026-10-19T11:00:00Z",
+                        "endTime": "2026-10-19T11:34:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "16",
+                        "startTime": "2026-10-19T11:34:00Z",
+                        "endTime": "2026-10-19T12:00:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "17",
+                        "startTime": "2026-10-19T12:00:00Z",
+                        "endTime": "2026-10-19T12:11:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "3",
+                        "Episode Number": "10",
+                        "startTime": "2026-10-19T12:11:00Z",
+                        "endTime": "2026-10-19T12:33:00Z"
+                    },
+                    {
+                        "title": "Titoo: Pingpong ki Circus",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T12:33:00Z",
+                        "endTime": "2026-10-19T13:47:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "18",
+                        "startTime": "2026-10-19T13:47:00Z",
+                        "endTime": "2026-10-19T13:58:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "19",
+                        "startTime": "2026-10-19T13:58:00Z",
+                        "endTime": "2026-10-19T14:25:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "20",
+                        "startTime": "2026-10-19T14:25:00Z",
+                        "endTime": "2026-10-19T14:36:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "21",
+                        "startTime": "2026-10-19T14:36:00Z",
+                        "endTime": "2026-10-19T14:47:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "22",
+                        "startTime": "2026-10-19T14:47:00Z",
+                        "endTime": "2026-10-19T14:58:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "23",
+                        "startTime": "2026-10-19T14:58:00Z",
+                        "endTime": "2026-10-19T15:09:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "24",
+                        "startTime": "2026-10-19T15:09:00Z",
+                        "endTime": "2026-10-19T15:20:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "1",
+                        "startTime": "2026-10-19T15:20:00Z",
+                        "endTime": "2026-10-19T15:33:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "2",
+                        "startTime": "2026-10-19T15:33:00Z",
+                        "endTime": "2026-10-19T15:59:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "3",
+                        "startTime": "2026-10-19T15:59:00Z",
+                        "endTime": "2026-10-19T16:28:00Z"
+                    },
+                    {
+                        "title": "We Bare Bears",
+                        "Series Number": "1",
+                        "Episode Number": "4",
+                        "startTime": "2026-10-19T16:28:00Z",
+                        "endTime": "2026-10-19T16:38:00Z"
+                    },
+                    {
+                        "title": "We Bare Bears",
+                        "Series Number": "1",
+                        "Episode Number": "5",
+                        "startTime": "2026-10-19T16:38:00Z",
+                        "endTime": "2026-10-19T16:50:00Z"
+                    },
+                    {
+                        "title": "We Bare Bears",
+                        "Series Number": "1",
+                        "Episode Number": "6",
+                        "startTime": "2026-10-19T16:50:00Z",
+                        "endTime": "2026-10-19T17:02:00Z"
+                    },
+                    {
+                        "title": "We Bare Bears",
+                        "Series Number": "1",
+                        "Episode Number": "7",
+                        "startTime": "2026-10-19T17:02:00Z",
+                        "endTime": "2026-10-19T17:14:00Z"
+                    },
+                    {
+                        "title": "We Bare Bears",
+                        "Series Number": "1",
+                        "Episode Number": "8",
+                        "startTime": "2026-10-19T17:14:00Z",
+                        "endTime": "2026-10-19T17:26:00Z"
+                    },
+                    {
+                        "title": "We Bare Bears",
+                        "Series Number": "1",
+                        "Episode Number": "9",
+                        "startTime": "2026-10-19T17:26:00Z",
+                        "endTime": "2026-10-19T17:37:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "4",
+                        "startTime": "2026-10-19T17:37:00Z",
+                        "endTime": "2026-10-19T18:06:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "5",
+                        "startTime": "2026-10-19T18:06:00Z",
+                        "endTime": "2026-10-19T18:33:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "6",
+                        "startTime": "2026-10-19T18:33:00Z",
+                        "endTime": "2026-10-19T18:45:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "7",
+                        "startTime": "2026-10-19T18:45:00Z",
+                        "endTime": "2026-10-19T18:57:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "8",
+                        "startTime": "2026-10-19T18:57:00Z",
+                        "endTime": "2026-10-19T19:09:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "9",
+                        "startTime": "2026-10-19T19:09:00Z",
+                        "endTime": "2026-10-19T19:21:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "10",
+                        "startTime": "2026-10-19T19:21:00Z",
+                        "endTime": "2026-10-19T19:33:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "11",
+                        "startTime": "2026-10-19T19:33:00Z",
+                        "endTime": "2026-10-19T20:00:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "12",
+                        "startTime": "2026-10-19T20:00:00Z",
+                        "endTime": "2026-10-19T20:27:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "13",
+                        "startTime": "2026-10-19T20:27:00Z",
+                        "endTime": "2026-10-19T20:38:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "14",
+                        "startTime": "2026-10-19T20:38:00Z",
+                        "endTime": "2026-10-19T20:49:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "15",
+                        "startTime": "2026-10-19T20:49:00Z",
+                        "endTime": "2026-10-19T21:00:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "3",
+                        "Episode Number": "9",
+                        "startTime": "2026-10-19T21:00:00Z",
+                        "endTime": "2026-10-19T21:20:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "16",
+                        "startTime": "2026-10-19T21:20:00Z",
+                        "endTime": "2026-10-19T21:31:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "17",
+                        "startTime": "2026-10-19T21:31:00Z",
+                        "endTime": "2026-10-19T21:58:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "18",
+                        "startTime": "2026-10-19T21:58:00Z",
+                        "endTime": "2026-10-19T22:13:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "19",
+                        "startTime": "2026-10-19T22:13:00Z",
+                        "endTime": "2026-10-19T22:27:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "20",
+                        "startTime": "2026-10-19T22:27:00Z",
+                        "endTime": "2026-10-19T22:56:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "21",
+                        "startTime": "2026-10-19T22:56:00Z",
+                        "endTime": "2026-10-19T23:08:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "22",
+                        "startTime": "2026-10-19T23:08:00Z",
+                        "endTime": "2026-10-19T23:19:00Z"
+                    },
+                    {
+                        "title": "Titoo",
+                        "Series Number": "13",
+                        "Episode Number": "23",
+                        "startTime": "2026-10-19T23:19:00Z",
+                        "endTime": "2026-10-19T23:30:00Z"
+                    },
+                    {
+                        "title": "Fukrey Boyzzz",
+                        "Series Number": "1",
+                        "Episode Number": "39",
+                        "startTime": "2026-10-19T23:30:00Z",
+                        "endTime": "2026-10-19T23:42:00Z"
+                    },
+                    {
+                        "title": "Fukrey Boyzzz",
+                        "Series Number": "1",
+                        "Episode Number": "40",
+                        "startTime": "2026-10-19T23:42:00Z",
+                        "endTime": "2026-10-19T23:54:00Z"
+                    },
+                    {
+                        "title": "Little Singham",
+                        "Series Number": "1",
+                        "Episode Number": "58",
+                        "startTime": "2026-10-19T23:54:00Z",
+                        "endTime": "2026-10-20T00:06:00Z"
+                    }
+                ]
+            },
+            {
+                "channelId": "159124",
+                "channelName": "Sonic Nickelodeon",
+                "programs": [
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T01:00:00Z",
+                        "endTime": "2026-10-19T02:00:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T02:00:00Z",
+                        "endTime": "2026-10-19T02:30:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T02:30:00Z",
+                        "endTime": "2026-10-19T06:00:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T06:00:00Z",
+                        "endTime": "2026-10-19T07:00:00Z"
+                    },
+                    {
+                        "title": "Pak Pakau",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T07:00:00Z",
+                        "endTime": "2026-10-19T07:15:00Z"
+                    },
+                    {
+                        "title": "Pakdam Pakdai",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T07:15:00Z",
+                        "endTime": "2026-10-19T08:00:00Z"
+                    },
+                    {
+                        "title": "Zig & Sharko",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T08:00:00Z",
+                        "endTime": "2026-10-19T11:30:00Z"
+                    },
+                    {
+                        "title": "Pakdam Pakdai Ocean Attack",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T11:30:00Z",
+                        "endTime": "2026-10-19T13:30:00Z"
+                    },
+                    {
+                        "title": "Zig & Sharko",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T13:30:00Z",
+                        "endTime": "2026-10-19T15:00:00Z"
+                    },
+                    {
+                        "title": "The Bhoot Bandhus: Khali Dimaag Shaitan Ka Ghar",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T15:00:00Z",
+                        "endTime": "2026-10-19T16:00:00Z"
+                    },
+                    {
+                        "title": "Pinaki & Happy - The Bhoot Bandhus",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T16:00:00Z",
+                        "endTime": "2026-10-19T16:30:00Z"
+                    },
+                    {
+                        "title": "Pinaki & Happy - The Bhoot Bandhus",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T16:30:00Z",
+                        "endTime": "2026-10-19T17:00:00Z"
+                    },
+                    {
+                        "title": "Zig & Sharko",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T17:00:00Z",
+                        "endTime": "2026-10-19T17:15:00Z"
+                    },
+                    {
+                        "title": "Pinaki and Happy",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T17:15:00Z",
+                        "endTime": "2026-10-19T17:30:00Z"
+                    },
+                    {
+                        "title": "Pinaki and Happy",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T17:30:00Z",
+                        "endTime": "2026-10-19T18:00:00Z"
+                    },
+                    {
+                        "title": "Zig & Sharko",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T18:00:00Z",
+                        "endTime": "2026-10-19T19:00:00Z"
+                    },
+                    {
+                        "title": "Pinaki & Happy - The Bhoot Bandhus",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T19:00:00Z",
+                        "endTime": "2026-10-19T20:30:00Z"
+                    },
+                    {
+                        "title": "Zig & Sharko",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T20:30:00Z",
+                        "endTime": "2026-10-19T21:30:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T21:30:00Z",
+                        "endTime": "2026-10-19T22:30:00Z"
+                    },
+                    {
+                        "title": "Pakdam Pakdai",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T22:30:00Z",
+                        "endTime": "2026-10-19T23:00:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T23:00:00Z",
+                        "endTime": "2026-10-20T01:00:00Z"
+                    }
+                ]
+            },
+            {
+                "channelId": "159100",
+                "channelName": "SONY YAY",
+                "programs": [
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "381",
+                        "startTime": "2026-10-19T00:01:00Z",
+                        "endTime": "2026-10-19T00:08:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "382",
+                        "startTime": "2026-10-19T00:08:00Z",
+                        "endTime": "2026-10-19T00:15:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "383",
+                        "startTime": "2026-10-19T00:15:00Z",
+                        "endTime": "2026-10-19T00:22:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "384",
+                        "startTime": "2026-10-19T00:22:00Z",
+                        "endTime": "2026-10-19T00:29:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "385",
+                        "startTime": "2026-10-19T00:29:00Z",
+                        "endTime": "2026-10-19T00:36:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "386",
+                        "startTime": "2026-10-19T00:36:00Z",
+                        "endTime": "2026-10-19T00:43:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "387",
+                        "startTime": "2026-10-19T00:43:00Z",
+                        "endTime": "2026-10-19T00:50:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "46",
+                        "startTime": "2026-10-19T00:50:00Z",
+                        "endTime": "2026-10-19T01:01:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "47",
+                        "startTime": "2026-10-19T01:01:00Z",
+                        "endTime": "2026-10-19T01:12:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "48",
+                        "startTime": "2026-10-19T01:12:00Z",
+                        "endTime": "2026-10-19T01:22:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "49",
+                        "startTime": "2026-10-19T01:22:00Z",
+                        "endTime": "2026-10-19T01:33:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "50",
+                        "startTime": "2026-10-19T01:33:00Z",
+                        "endTime": "2026-10-19T01:44:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "51",
+                        "startTime": "2026-10-19T01:44:00Z",
+                        "endTime": "2026-10-19T01:55:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "52",
+                        "startTime": "2026-10-19T01:55:00Z",
+                        "endTime": "2026-10-19T02:07:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "53",
+                        "startTime": "2026-10-19T02:07:00Z",
+                        "endTime": "2026-10-19T02:18:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "54",
+                        "startTime": "2026-10-19T02:18:00Z",
+                        "endTime": "2026-10-19T02:28:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "95",
+                        "startTime": "2026-10-19T02:28:00Z",
+                        "endTime": "2026-10-19T02:37:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "96",
+                        "startTime": "2026-10-19T02:37:00Z",
+                        "endTime": "2026-10-19T02:49:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "97",
+                        "startTime": "2026-10-19T02:49:00Z",
+                        "endTime": "2026-10-19T02:58:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "98",
+                        "startTime": "2026-10-19T02:58:00Z",
+                        "endTime": "2026-10-19T03:10:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "99",
+                        "startTime": "2026-10-19T03:10:00Z",
+                        "endTime": "2026-10-19T03:21:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "105",
+                        "startTime": "2026-10-19T03:21:00Z",
+                        "endTime": "2026-10-19T03:32:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "106",
+                        "startTime": "2026-10-19T03:32:00Z",
+                        "endTime": "2026-10-19T03:43:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "107",
+                        "startTime": "2026-10-19T03:43:00Z",
+                        "endTime": "2026-10-19T03:54:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "108",
+                        "startTime": "2026-10-19T03:54:00Z",
+                        "endTime": "2026-10-19T04:04:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "154",
+                        "startTime": "2026-10-19T04:04:00Z",
+                        "endTime": "2026-10-19T04:14:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "155",
+                        "startTime": "2026-10-19T04:14:00Z",
+                        "endTime": "2026-10-19T04:27:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "156",
+                        "startTime": "2026-10-19T04:27:00Z",
+                        "endTime": "2026-10-19T04:38:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "157",
+                        "startTime": "2026-10-19T04:38:00Z",
+                        "endTime": "2026-10-19T04:50:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "158",
+                        "startTime": "2026-10-19T04:50:00Z",
+                        "endTime": "2026-10-19T05:00:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "159",
+                        "startTime": "2026-10-19T05:00:00Z",
+                        "endTime": "2026-10-19T05:11:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "160",
+                        "startTime": "2026-10-19T05:11:00Z",
+                        "endTime": "2026-10-19T05:23:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "161",
+                        "startTime": "2026-10-19T05:23:00Z",
+                        "endTime": "2026-10-19T05:36:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "162",
+                        "startTime": "2026-10-19T05:36:00Z",
+                        "endTime": "2026-10-19T05:46:00Z"
+                    },
+                    {
+                        "title": "Honey Bunny Ka Jholmaal",
+                        "Series Number": "1",
+                        "Episode Number": "167",
+                        "startTime": "2026-10-19T05:46:00Z",
+                        "endTime": "2026-10-19T06:00:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "331",
+                        "startTime": "2026-10-19T06:00:00Z",
+                        "endTime": "2026-10-19T06:08:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "333",
+                        "startTime": "2026-10-19T06:08:00Z",
+                        "endTime": "2026-10-19T06:14:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "334",
+                        "startTime": "2026-10-19T06:14:00Z",
+                        "endTime": "2026-10-19T06:21:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "335",
+                        "startTime": "2026-10-19T06:21:00Z",
+                        "endTime": "2026-10-19T06:27:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "336",
+                        "startTime": "2026-10-19T06:27:00Z",
+                        "endTime": "2026-10-19T06:33:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "337",
+                        "startTime": "2026-10-19T06:33:00Z",
+                        "endTime": "2026-10-19T06:40:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "338",
+                        "startTime": "2026-10-19T06:40:00Z",
+                        "endTime": "2026-10-19T06:46:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "445",
+                        "startTime": "2026-10-19T06:46:00Z",
+                        "endTime": "2026-10-19T06:53:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "330",
+                        "startTime": "2026-10-19T06:53:00Z",
+                        "endTime": "2026-10-19T07:00:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "802",
+                        "startTime": "2026-10-19T07:00:00Z",
+                        "endTime": "2026-10-19T07:13:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "753",
+                        "startTime": "2026-10-19T07:13:00Z",
+                        "endTime": "2026-10-19T07:21:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "754",
+                        "startTime": "2026-10-19T07:21:00Z",
+                        "endTime": "2026-10-19T07:29:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "755",
+                        "startTime": "2026-10-19T07:29:00Z",
+                        "endTime": "2026-10-19T07:37:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "756",
+                        "startTime": "2026-10-19T07:37:00Z",
+                        "endTime": "2026-10-19T07:45:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "757",
+                        "startTime": "2026-10-19T07:45:00Z",
+                        "endTime": "2026-10-19T07:53:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "758",
+                        "startTime": "2026-10-19T07:53:00Z",
+                        "endTime": "2026-10-19T08:01:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "803",
+                        "startTime": "2026-10-19T08:01:00Z",
+                        "endTime": "2026-10-19T08:14:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "804",
+                        "startTime": "2026-10-19T08:14:00Z",
+                        "endTime": "2026-10-19T08:23:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "805",
+                        "startTime": "2026-10-19T08:23:00Z",
+                        "endTime": "2026-10-19T08:31:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "806",
+                        "startTime": "2026-10-19T08:31:00Z",
+                        "endTime": "2026-10-19T08:38:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "849",
+                        "startTime": "2026-10-19T08:38:00Z",
+                        "endTime": "2026-10-19T08:46:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "808",
+                        "startTime": "2026-10-19T08:46:00Z",
+                        "endTime": "2026-10-19T08:54:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "807",
+                        "startTime": "2026-10-19T08:54:00Z",
+                        "endTime": "2026-10-19T09:02:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "6",
+                        "startTime": "2026-10-19T09:02:00Z",
+                        "endTime": "2026-10-19T09:18:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "850",
+                        "startTime": "2026-10-19T09:18:00Z",
+                        "endTime": "2026-10-19T09:25:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "851",
+                        "startTime": "2026-10-19T09:25:00Z",
+                        "endTime": "2026-10-19T09:33:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "852",
+                        "startTime": "2026-10-19T09:33:00Z",
+                        "endTime": "2026-10-19T09:41:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "847",
+                        "startTime": "2026-10-19T09:41:00Z",
+                        "endTime": "2026-10-19T09:57:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "20",
+                        "startTime": "2026-10-19T09:57:00Z",
+                        "endTime": "2026-10-19T10:04:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "19",
+                        "startTime": "2026-10-19T10:04:00Z",
+                        "endTime": "2026-10-19T10:24:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "33",
+                        "startTime": "2026-10-19T10:24:00Z",
+                        "endTime": "2026-10-19T10:31:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "34",
+                        "startTime": "2026-10-19T10:31:00Z",
+                        "endTime": "2026-10-19T10:38:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "61",
+                        "startTime": "2026-10-19T10:38:00Z",
+                        "endTime": "2026-10-19T10:45:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "48",
+                        "startTime": "2026-10-19T10:45:00Z",
+                        "endTime": "2026-10-19T10:52:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "62",
+                        "startTime": "2026-10-19T10:52:00Z",
+                        "endTime": "2026-10-19T10:59:00Z"
+                    },
+                    {
+                        "title": "Shin Chan Movie - Villian Aur Dulhan",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T10:59:00Z",
+                        "endTime": "2026-10-19T12:45:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "75",
+                        "startTime": "2026-10-19T12:45:00Z",
+                        "endTime": "2026-10-19T12:52:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "76",
+                        "startTime": "2026-10-19T12:52:00Z",
+                        "endTime": "2026-10-19T12:59:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "80",
+                        "startTime": "2026-10-19T12:59:00Z",
+                        "endTime": "2026-10-19T13:16:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "90",
+                        "startTime": "2026-10-19T13:16:00Z",
+                        "endTime": "2026-10-19T13:24:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "91",
+                        "startTime": "2026-10-19T13:24:00Z",
+                        "endTime": "2026-10-19T13:31:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "101",
+                        "startTime": "2026-10-19T13:31:00Z",
+                        "endTime": "2026-10-19T13:39:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "100",
+                        "startTime": "2026-10-19T13:39:00Z",
+                        "endTime": "2026-10-19T13:56:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "111",
+                        "startTime": "2026-10-19T13:56:00Z",
+                        "endTime": "2026-10-19T14:04:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "120",
+                        "startTime": "2026-10-19T14:04:00Z",
+                        "endTime": "2026-10-19T14:12:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "121",
+                        "startTime": "2026-10-19T14:12:00Z",
+                        "endTime": "2026-10-19T14:20:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "130",
+                        "startTime": "2026-10-19T14:20:00Z",
+                        "endTime": "2026-10-19T14:28:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "131",
+                        "startTime": "2026-10-19T14:28:00Z",
+                        "endTime": "2026-10-19T14:36:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "140",
+                        "startTime": "2026-10-19T14:36:00Z",
+                        "endTime": "2026-10-19T14:44:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "110",
+                        "startTime": "2026-10-19T14:44:00Z",
+                        "endTime": "2026-10-19T15:00:00Z"
+                    },
+                    {
+                        "title": "Shinchan Movie Masala Story",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T15:00:00Z",
+                        "endTime": "2026-10-19T16:34:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "759",
+                        "startTime": "2026-10-19T16:34:00Z",
+                        "endTime": "2026-10-19T16:42:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "47",
+                        "startTime": "2026-10-19T16:42:00Z",
+                        "endTime": "2026-10-19T16:58:00Z"
+                    },
+                    {
+                        "title": "Shinchan Movie: Dark Tama Tama",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T16:58:00Z",
+                        "endTime": "2026-10-19T18:43:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "5",
+                        "startTime": "2026-10-19T18:43:00Z",
+                        "endTime": "2026-10-19T19:00:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "84",
+                        "startTime": "2026-10-19T19:00:00Z",
+                        "endTime": "2026-10-19T19:18:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "94",
+                        "startTime": "2026-10-19T19:18:00Z",
+                        "endTime": "2026-10-19T19:26:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "114",
+                        "startTime": "2026-10-19T19:26:00Z",
+                        "endTime": "2026-10-19T19:34:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "125",
+                        "startTime": "2026-10-19T19:34:00Z",
+                        "endTime": "2026-10-19T19:42:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "134",
+                        "startTime": "2026-10-19T19:42:00Z",
+                        "endTime": "2026-10-19T19:50:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "95",
+                        "startTime": "2026-10-19T19:50:00Z",
+                        "endTime": "2026-10-19T19:58:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "115",
+                        "startTime": "2026-10-19T19:58:00Z",
+                        "endTime": "2026-10-19T20:06:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "124",
+                        "startTime": "2026-10-19T20:06:00Z",
+                        "endTime": "2026-10-19T20:14:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "135",
+                        "startTime": "2026-10-19T20:14:00Z",
+                        "endTime": "2026-10-19T20:22:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "1",
+                        "Episode Number": "105",
+                        "startTime": "2026-10-19T20:22:00Z",
+                        "endTime": "2026-10-19T20:30:00Z"
+                    }
+                ]
+            },
+            {
+                "channelId": "143025",
+                "channelName": "ETV Bal Bharat",
+                "programs": [
+                    {
+                        "title": "Wisdom Tree / Tree House Stories",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T06:00:00Z",
+                        "endTime": "2026-10-19T06:30:00Z"
+                    },
+                    {
+                        "title": "PAW Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T06:30:00Z",
+                        "endTime": "2026-10-19T07:00:00Z"
+                    },
+                    {
+                        "title": "PAW Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T07:00:00Z",
+                        "endTime": "2026-10-19T07:30:00Z"
+                    },
+                    {
+                        "title": "PAW Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T07:30:00Z",
+                        "endTime": "2026-10-19T08:00:00Z"
+                    },
+                    {
+                        "title": "PAW Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T08:00:00Z",
+                        "endTime": "2026-10-19T08:30:00Z"
+                    },
+                    {
+                        "title": "PAW Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T08:30:00Z",
+                        "endTime": "2026-10-19T09:00:00Z"
+                    },
+                    {
+                        "title": "PAW Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T09:00:00Z",
+                        "endTime": "2026-10-19T09:30:00Z"
+                    },
+                    {
+                        "title": "PAW Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T09:30:00Z",
+                        "endTime": "2026-10-19T10:00:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T10:00:00Z",
+                        "endTime": "2026-10-19T10:30:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T10:30:00Z",
+                        "endTime": "2026-10-19T11:00:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T11:00:00Z",
+                        "endTime": "2026-10-19T11:30:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T11:30:00Z",
+                        "endTime": "2026-10-19T12:00:00Z"
+                    },
+                    {
+                        "title": "Sisters",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T12:00:00Z",
+                        "endTime": "2026-10-19T12:30:00Z"
+                    },
+                    {
+                        "title": "Sisters",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T12:30:00Z",
+                        "endTime": "2026-10-19T13:00:00Z"
+                    },
+                    {
+                        "title": "Sisters",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T13:00:00Z",
+                        "endTime": "2026-10-19T13:30:00Z"
+                    },
+                    {
+                        "title": "Sisters",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T13:30:00Z",
+                        "endTime": "2026-10-19T14:00:00Z"
+                    },
+                    {
+                        "title": "PAW Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T14:00:00Z",
+                        "endTime": "2026-10-19T14:30:00Z"
+                    },
+                    {
+                        "title": "PAW Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T14:30:00Z",
+                        "endTime": "2026-10-19T15:00:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T15:00:00Z",
+                        "endTime": "2026-10-19T15:30:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T15:30:00Z",
+                        "endTime": "2026-10-19T16:00:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T16:00:00Z",
+                        "endTime": "2026-10-19T16:30:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T16:30:00Z",
+                        "endTime": "2026-10-19T17:00:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T17:00:00Z",
+                        "endTime": "2026-10-19T17:30:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T17:30:00Z",
+                        "endTime": "2026-10-19T18:00:00Z"
+                    },
+                    {
+                        "title": "Rudra",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T18:00:00Z",
+                        "endTime": "2026-10-19T18:30:00Z"
+                    },
+                    {
+                        "title": "Rudra",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T18:30:00Z",
+                        "endTime": "2026-10-19T19:00:00Z"
+                    },
+                    {
+                        "title": "Rudra",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T19:00:00Z",
+                        "endTime": "2026-10-19T19:30:00Z"
+                    },
+                    {
+                        "title": "Rudra",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T19:30:00Z",
+                        "endTime": "2026-10-19T20:00:00Z"
+                    },
+                    {
+                        "title": "Rudra",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T20:00:00Z",
+                        "endTime": "2026-10-19T20:30:00Z"
+                    },
+                    {
+                        "title": "Rudra",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T20:30:00Z",
+                        "endTime": "2026-10-19T21:00:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T21:00:00Z",
+                        "endTime": "2026-10-19T21:30:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T21:30:00Z",
+                        "endTime": "2026-10-19T22:00:00Z"
+                    },
+                    {
+                        "title": "Shiva",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T22:00:00Z",
+                        "endTime": "2026-10-19T22:30:00Z"
+                    },
+                    {
+                        "title": "Rudra",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T22:30:00Z",
+                        "endTime": "2026-10-19T23:00:00Z"
+                    },
+                    {
+                        "title": "Rudra",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T23:00:00Z",
+                        "endTime": "2026-10-19T23:30:00Z"
+                    },
+                    {
+                        "title": "Rudra",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T23:30:00Z",
+                        "endTime": "2026-10-20T00:00:00Z"
+                    }
+                ]
+            },
+            {
+                "channelId": "157820",
+                "channelName": "Nick Jr",
+                "programs": [
+                    {
+                        "title": "Rusty Rivets",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T02:00:00Z",
+                        "endTime": "2026-10-19T06:00:00Z"
+                    },
+                    {
+                        "title": "Rusty Rivets",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T06:00:00Z",
+                        "endTime": "2026-10-19T07:00:00Z"
+                    },
+                    {
+                        "title": "PAW Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T07:00:00Z",
+                        "endTime": "2026-10-19T09:00:00Z"
+                    },
+                    {
+                        "title": "Peppa Pig",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T09:00:00Z",
+                        "endTime": "2026-10-19T09:30:00Z"
+                    },
+                    {
+                        "title": "Peppa Pig",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T09:30:00Z",
+                        "endTime": "2026-10-19T10:00:00Z"
+                    },
+                    {
+                        "title": "Peppa Pig",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T10:00:00Z",
+                        "endTime": "2026-10-19T10:30:00Z"
+                    },
+                    {
+                        "title": "PAW Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T10:30:00Z",
+                        "endTime": "2026-10-19T11:00:00Z"
+                    },
+                    {
+                        "title": "PAW Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T11:00:00Z",
+                        "endTime": "2026-10-19T11:30:00Z"
+                    },
+                    {
+                        "title": "PAW Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T11:30:00Z",
+                        "endTime": "2026-10-19T12:00:00Z"
+                    },
+                    {
+                        "title": "Masha and the Bear",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T12:00:00Z",
+                        "endTime": "2026-10-19T12:30:00Z"
+                    },
+                    {
+                        "title": "Masha and the Bear",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T12:30:00Z",
+                        "endTime": "2026-10-19T13:00:00Z"
+                    },
+                    {
+                        "title": "Masha and the Bear",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T13:00:00Z",
+                        "endTime": "2026-10-19T13:30:00Z"
+                    },
+                    {
+                        "title": "Peppa Pig",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T13:30:00Z",
+                        "endTime": "2026-10-19T15:00:00Z"
+                    },
+                    {
+                        "title": "Masha and the Bear",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T15:00:00Z",
+                        "endTime": "2026-10-19T17:00:00Z"
+                    },
+                    {
+                        "title": "PAW Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T17:00:00Z",
+                        "endTime": "2026-10-19T18:00:00Z"
+                    },
+                    {
+                        "title": "Peppa Pig",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T18:00:00Z",
+                        "endTime": "2026-10-19T21:00:00Z"
+                    },
+                    {
+                        "title": "Masha and the Bear",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T21:00:00Z",
+                        "endTime": "2026-10-19T23:00:00Z"
+                    },
+                    {
+                        "title": "Shimmer and Shine",
+                        "Series Number": "1",
+                        "Episode Number": "12",
+                        "startTime": "2026-10-19T23:00:00Z",
+                        "endTime": "2026-10-20T02:00:00Z"
+                    }
+                ]
+            },
+            {
+                "channelId": "142990",
+                "channelName": "Disney Junior",
+                "programs": [
+                    {
+                        "title": "Mickey Mouse Clubhouse",
+                        "Series Number": "1",
+                        "Episode Number": "1",
+                        "startTime": "2026-10-19T03:00:00Z",
+                        "endTime": "2026-10-19T06:00:00Z"
+                    },
+                    {
+                        "title": "PJ Masks",
+                        "Series Number": "1",
+                        "Episode Number": "491",
+                        "startTime": "2026-10-19T06:00:00Z",
+                        "endTime": "2026-10-19T07:00:00Z"
+                    },
+                    {
+                        "title": "The Lion Guard",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T07:00:00Z",
+                        "endTime": "2026-10-19T08:00:00Z"
+                    },
+                    {
+                        "title": "The Lion Guard",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T08:00:00Z",
+                        "endTime": "2026-10-19T08:30:00Z"
+                    },
+                    {
+                        "title": "The Lion Guard",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T08:30:00Z",
+                        "endTime": "2026-10-19T10:30:00Z"
+                    },
+                    {
+                        "title": "Bluey",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T10:30:00Z",
+                        "endTime": "2026-10-19T11:30:00Z"
+                    },
+                    {
+                        "title": "Bluey",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T11:30:00Z",
+                        "endTime": "2026-10-19T12:00:00Z"
+                    },
+                    {
+                        "title": "Bluey",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T12:00:00Z",
+                        "endTime": "2026-10-19T14:00:00Z"
+                    },
+                    {
+                        "title": "The Lion Guard",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T14:00:00Z",
+                        "endTime": "2026-10-19T14:30:00Z"
+                    },
+                    {
+                        "title": "The Lion Guard",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T14:30:00Z",
+                        "endTime": "2026-10-19T17:00:00Z"
+                    },
+                    {
+                        "title": "Bluey",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T17:00:00Z",
+                        "endTime": "2026-10-19T20:30:00Z"
+                    },
+                    {
+                        "title": "The Lion Guard",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T20:30:00Z",
+                        "endTime": "2026-10-19T23:00:00Z"
+                    },
+                    {
+                        "title": "The Lion Guard",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T23:00:00Z",
+                        "endTime": "2026-10-20T03:00:00Z"
+                    }
+                ]
+            },
+            {
+                "channelId": "143150",
+                "channelName": "Hungama",
+                "programs": [
+                    {
+                        "title": "Atashinchi",
+                        "Series Number": "1",
+                        "Episode Number": "366",
+                        "startTime": "2026-10-19T01:00:00Z",
+                        "endTime": "2026-10-19T05:00:00Z"
+                    },
+                    {
+                        "title": "Atashinchi",
+                        "Series Number": "1",
+                        "Episode Number": "366",
+                        "startTime": "2026-10-19T05:00:00Z",
+                        "endTime": "2026-10-19T06:00:00Z"
+                    },
+                    {
+                        "title": "Atashinchi",
+                        "Series Number": "1",
+                        "Episode Number": "366",
+                        "startTime": "2026-10-19T06:00:00Z",
+                        "endTime": "2026-10-19T07:00:00Z"
+                    },
+                    {
+                        "title": "Selfie With Bajrangi",
+                        "Series Number": "1",
+                        "Episode Number": "407",
+                        "startTime": "2026-10-19T07:00:00Z",
+                        "endTime": "2026-10-19T08:00:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T08:00:00Z",
+                        "endTime": "2026-10-19T12:00:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T12:00:00Z",
+                        "endTime": "2026-10-19T16:00:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T16:00:00Z",
+                        "endTime": "2026-10-19T18:00:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T18:00:00Z",
+                        "endTime": "2026-10-19T18:30:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T18:30:00Z",
+                        "endTime": "2026-10-19T22:00:00Z"
+                    },
+                    {
+                        "title": "Pokemon",
+                        "Series Number": "1",
+                        "Episode Number": "1",
+                        "startTime": "2026-10-19T22:00:00Z",
+                        "endTime": "2026-10-19T23:00:00Z"
+                    },
+                    {
+                        "title": "Shin Chan",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T23:00:00Z",
+                        "endTime": "2026-10-20T01:00:00Z"
+                    }
+                ]
+            },
+            {
+                "channelId": "142739",
+                "channelName": "Chutti TV",
+                "programs": [
+                    {
+                        "title": "Panchathanthira Kadhaigal",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T00:00:00Z",
+                        "endTime": "2026-10-19T02:00:00Z"
+                    },
+                    {
+                        "title": "Shaktimaan",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T02:00:00Z",
+                        "endTime": "2026-10-19T03:00:00Z"
+                    },
+                    {
+                        "title": "Little Hakka",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T03:00:00Z",
+                        "endTime": "2026-10-19T04:00:00Z"
+                    },
+                    {
+                        "title": "Heidi",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T04:00:00Z",
+                        "endTime": "2026-10-19T06:00:00Z"
+                    },
+                    {
+                        "title": "Little Krishna",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T06:00:00Z",
+                        "endTime": "2026-10-19T07:00:00Z"
+                    },
+                    {
+                        "title": "Maha Ganesha",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T07:00:00Z",
+                        "endTime": "2026-10-19T07:25:00Z"
+                    },
+                    {
+                        "title": "Cakes & candles",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T07:25:00Z",
+                        "endTime": "2026-10-19T07:30:00Z"
+                    },
+                    {
+                        "title": "Maha Ganesha",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T07:30:00Z",
+                        "endTime": "2026-10-19T08:00:00Z"
+                    },
+                    {
+                        "title": "Super Singhoo",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T08:00:00Z",
+                        "endTime": "2026-10-19T09:00:00Z"
+                    },
+                    {
+                        "title": "Akiravum Mowgliyum - The Jungle Book Adventures",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T09:00:00Z",
+                        "endTime": "2026-10-19T10:00:00Z"
+                    },
+                    {
+                        "title": "Doravin Payanangal",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T10:00:00Z",
+                        "endTime": "2026-10-19T13:00:00Z"
+                    },
+                    {
+                        "title": "Maha Ganesha",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T13:00:00Z",
+                        "endTime": "2026-10-19T13:30:00Z"
+                    },
+                    {
+                        "title": "Super Singhoo",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T13:30:00Z",
+                        "endTime": "2026-10-19T14:30:00Z"
+                    },
+                    {
+                        "title": "Little Hakka",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T14:30:00Z",
+                        "endTime": "2026-10-19T15:00:00Z"
+                    },
+                    {
+                        "title": "Doravin Payanangal",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T15:00:00Z",
+                        "endTime": "2026-10-19T16:00:00Z"
+                    },
+                    {
+                        "title": "Akiravum Mowgliyum - The Jungle Book Adventures",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T16:00:00Z",
+                        "endTime": "2026-10-19T17:00:00Z"
+                    },
+                    {
+                        "title": "Sabaash Bala",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T17:00:00Z",
+                        "endTime": "2026-10-19T17:30:00Z"
+                    },
+                    {
+                        "title": "Super Singhoo",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T17:30:00Z",
+                        "endTime": "2026-10-19T18:00:00Z"
+                    },
+                    {
+                        "title": "Heidi",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T18:00:00Z",
+                        "endTime": "2026-10-19T19:00:00Z"
+                    },
+                    {
+                        "title": "Little Hakka",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T19:00:00Z",
+                        "endTime": "2026-10-19T20:00:00Z"
+                    },
+                    {
+                        "title": "Maha Ganesha",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T20:00:00Z",
+                        "endTime": "2026-10-19T21:00:00Z"
+                    },
+                    {
+                        "title": "Little Krishna",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T21:00:00Z",
+                        "endTime": "2026-10-19T22:00:00Z"
+                    },
+                    {
+                        "title": "Panchathanthira Kadhaigal",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T22:00:00Z",
+                        "endTime": "2026-10-20T00:00:00Z"
+                    }
+                ]
+            },
+            {
+                "channelId": "143269",
+                "channelName": "Kochu TV",
+                "programs": [
+                    {
+                        "title": "Jackie Chan",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T00:00:00Z",
+                        "endTime": "2026-10-19T00:30:00Z"
+                    },
+                    {
+                        "title": "Pinnochio",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T00:30:00Z",
+                        "endTime": "2026-10-19T02:00:00Z"
+                    },
+                    {
+                        "title": "Danger Mouse",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T02:00:00Z",
+                        "endTime": "2026-10-19T02:30:00Z"
+                    },
+                    {
+                        "title": "Singoo Fan Fest",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T02:30:00Z",
+                        "endTime": "2026-10-19T03:30:00Z"
+                    },
+                    {
+                        "title": "Happy Kids",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T03:30:00Z",
+                        "endTime": "2026-10-19T05:00:00Z"
+                    },
+                    {
+                        "title": "Kadha Koottu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T05:00:00Z",
+                        "endTime": "2026-10-19T06:00:00Z"
+                    },
+                    {
+                        "title": "Gloria's House",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T06:00:00Z",
+                        "endTime": "2026-10-19T06:30:00Z"
+                    },
+                    {
+                        "title": "Movie",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T06:30:00Z",
+                        "endTime": "2026-10-19T07:30:00Z"
+                    },
+                    {
+                        "title": "Dorayude Prayanam",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T07:30:00Z",
+                        "endTime": "2026-10-19T08:00:00Z"
+                    },
+                    {
+                        "title": "Happy Birthday",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T08:00:00Z",
+                        "endTime": "2026-10-19T08:05:00Z"
+                    },
+                    {
+                        "title": "Kochu Blast",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T08:05:00Z",
+                        "endTime": "2026-10-19T10:00:00Z"
+                    },
+                    {
+                        "title": "Baal Veer",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T10:00:00Z",
+                        "endTime": "2026-10-19T10:30:00Z"
+                    },
+                    {
+                        "title": "Kochu Blast",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T10:30:00Z",
+                        "endTime": "2026-10-19T13:00:00Z"
+                    },
+                    {
+                        "title": "Dorayude Prayanam",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T13:00:00Z",
+                        "endTime": "2026-10-19T13:30:00Z"
+                    },
+                    {
+                        "title": "Kochu Blast",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T13:30:00Z",
+                        "endTime": "2026-10-19T16:00:00Z"
+                    },
+                    {
+                        "title": "Happy Birthday",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T16:00:00Z",
+                        "endTime": "2026-10-19T16:05:00Z"
+                    },
+                    {
+                        "title": "Baal Veer",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T16:05:00Z",
+                        "endTime": "2026-10-19T16:30:00Z"
+                    },
+                    {
+                        "title": "Kochu Blast",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T16:30:00Z",
+                        "endTime": "2026-10-19T20:00:00Z"
+                    },
+                    {
+                        "title": "Movie",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T20:00:00Z",
+                        "endTime": "2026-10-19T21:00:00Z"
+                    },
+                    {
+                        "title": "Little Krishna",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T21:00:00Z",
+                        "endTime": "2026-10-19T22:00:00Z"
+                    },
+                    {
+                        "title": "Growing up with Tiantian",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T22:00:00Z",
+                        "endTime": "2026-10-19T22:30:00Z"
+                    },
+                    {
+                        "title": "Anniyan Bava Chettan Bava Kutties",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T22:30:00Z",
+                        "endTime": "2026-10-19T23:00:00Z"
+                    },
+                    {
+                        "title": "A B C B Monster Plan",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T23:00:00Z",
+                        "endTime": "2026-10-19T23:30:00Z"
+                    },
+                    {
+                        "title": "A B C B Adventures",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T23:30:00Z",
+                        "endTime": "2026-10-20T00:00:00Z"
+                    }
+                ]
+            },
+            {
+                "channelId": "142737",
+                "channelName": "Chintu TV",
+                "programs": [
+                    {
+                        "title": "Happy Kids",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T00:00:00Z",
+                        "endTime": "2026-10-19T01:00:00Z"
+                    },
+                    {
+                        "title": "Panchatantra Stories",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T01:00:00Z",
+                        "endTime": "2026-10-19T02:00:00Z"
+                    },
+                    {
+                        "title": "Fairy Tales",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T02:00:00Z",
+                        "endTime": "2026-10-19T03:00:00Z"
+                    },
+                    {
+                        "title": "Panchatantra Stories",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T03:00:00Z",
+                        "endTime": "2026-10-19T04:00:00Z"
+                    },
+                    {
+                        "title": "Happy Kids",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T04:00:00Z",
+                        "endTime": "2026-10-19T05:00:00Z"
+                    },
+                    {
+                        "title": "Fairy Tales",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T05:00:00Z",
+                        "endTime": "2026-10-19T06:00:00Z"
+                    },
+                    {
+                        "title": "Dora",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T06:00:00Z",
+                        "endTime": "2026-10-19T07:00:00Z"
+                    },
+                    {
+                        "title": "Bala Rama",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T07:00:00Z",
+                        "endTime": "2026-10-19T07:30:00Z"
+                    },
+                    {
+                        "title": "Shabhash Balu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T07:30:00Z",
+                        "endTime": "2026-10-19T08:00:00Z"
+                    },
+                    {
+                        "title": "Super Chinnari",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T08:00:00Z",
+                        "endTime": "2026-10-19T09:00:00Z"
+                    },
+                    {
+                        "title": "Akira And Mowgli",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T09:00:00Z",
+                        "endTime": "2026-10-19T10:00:00Z"
+                    },
+                    {
+                        "title": "Heidi",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T10:00:00Z",
+                        "endTime": "2026-10-19T11:00:00Z"
+                    },
+                    {
+                        "title": "Panda Mattu Hunja Apthamithraru",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T11:00:00Z",
+                        "endTime": "2026-10-19T12:00:00Z"
+                    },
+                    {
+                        "title": "Happy Kids",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T12:00:00Z",
+                        "endTime": "2026-10-19T12:30:00Z"
+                    },
+                    {
+                        "title": "Fairy Tales",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T12:30:00Z",
+                        "endTime": "2026-10-19T13:00:00Z"
+                    },
+                    {
+                        "title": "Dora",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T13:00:00Z",
+                        "endTime": "2026-10-19T14:00:00Z"
+                    },
+                    {
+                        "title": "Panda Mattu Hunja Apthamithraru",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T14:00:00Z",
+                        "endTime": "2026-10-19T14:30:00Z"
+                    },
+                    {
+                        "title": "Shabhash Balu",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T14:30:00Z",
+                        "endTime": "2026-10-19T15:00:00Z"
+                    },
+                    {
+                        "title": "Super Chinnari",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T15:00:00Z",
+                        "endTime": "2026-10-19T16:00:00Z"
+                    },
+                    {
+                        "title": "Akira And Mowgli",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T16:00:00Z",
+                        "endTime": "2026-10-19T17:00:00Z"
+                    },
+                    {
+                        "title": "Heidi",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T17:00:00Z",
+                        "endTime": "2026-10-19T18:00:00Z"
+                    },
+                    {
+                        "title": "Little Krishna",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T18:00:00Z",
+                        "endTime": "2026-10-19T19:00:00Z"
+                    },
+                    {
+                        "title": "Little Hakka",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T19:00:00Z",
+                        "endTime": "2026-10-19T20:00:00Z"
+                    },
+                    {
+                        "title": "Bala Rama",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T20:00:00Z",
+                        "endTime": "2026-10-19T21:00:00Z"
+                    },
+                    {
+                        "title": "Baal Veer",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T21:00:00Z",
+                        "endTime": "2026-10-19T23:00:00Z"
+                    },
+                    {
+                        "title": "Little Krishna",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T23:00:00Z",
+                        "endTime": "2026-10-20T00:00:00Z"
+                    }
+                ]
+            },
+            {
+                "channelId": "158843",
+                "channelName": "Disney Channel HD",
+                "programs": [
+                    {
+                        "title": "Doraemon",
+                        "Series Number": "1",
+                        "Episode Number": "490",
+                        "startTime": "2026-10-19T00:00:00Z",
+                        "endTime": "2026-10-19T03:00:00Z"
+                    },
+                    {
+                        "title": "Doraemon",
+                        "Series Number": "1",
+                        "Episode Number": "490",
+                        "startTime": "2026-10-19T03:00:00Z",
+                        "endTime": "2026-10-19T06:00:00Z"
+                    },
+                    {
+                        "title": "PJ Masks",
+                        "Series Number": "1",
+                        "Episode Number": "490",
+                        "startTime": "2026-10-19T06:00:00Z",
+                        "endTime": "2026-10-19T07:00:00Z"
+                    },
+                    {
+                        "title": "PJ Masks",
+                        "Series Number": "1",
+                        "Episode Number": "490",
+                        "startTime": "2026-10-19T07:00:00Z",
+                        "endTime": "2026-10-19T08:30:00Z"
+                    },
+                    {
+                        "title": "PJ Masks",
+                        "Series Number": "1",
+                        "Episode Number": "490",
+                        "startTime": "2026-10-19T08:30:00Z",
+                        "endTime": "2026-10-19T09:00:00Z"
+                    },
+                    {
+                        "title": "Mickey Mouse Clubhouse",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T09:00:00Z",
+                        "endTime": "2026-10-19T11:00:00Z"
+                    },
+                    {
+                        "title": "Doraemon",
+                        "Series Number": "1",
+                        "Episode Number": "490",
+                        "startTime": "2026-10-19T11:00:00Z",
+                        "endTime": "2026-10-19T11:30:00Z"
+                    },
+                    {
+                        "title": "Doraemon",
+                        "Series Number": "1",
+                        "Episode Number": "490",
+                        "startTime": "2026-10-19T11:30:00Z",
+                        "endTime": "2026-10-19T13:30:00Z"
+                    },
+                    {
+                        "title": "Miraculous: Tales of Ladybug & Cat Noir",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T13:30:00Z",
+                        "endTime": "2026-10-19T14:00:00Z"
+                    },
+                    {
+                        "title": "Jungle Tales with Mowgli",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T14:00:00Z",
+                        "endTime": "2026-10-19T14:30:00Z"
+                    },
+                    {
+                        "title": "Miraculous: Tales of Ladybug & Cat Noir",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T14:30:00Z",
+                        "endTime": "2026-10-19T15:30:00Z"
+                    },
+                    {
+                        "title": "PJ Masks",
+                        "Series Number": "1",
+                        "Episode Number": "490",
+                        "startTime": "2026-10-19T15:30:00Z",
+                        "endTime": "2026-10-19T16:30:00Z"
+                    },
+                    {
+                        "title": "Mickey Mouse Clubhouse",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T16:30:00Z",
+                        "endTime": "2026-10-19T17:00:00Z"
+                    },
+                    {
+                        "title": "Mickey Mouse Clubhouse",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T17:00:00Z",
+                        "endTime": "2026-10-19T18:30:00Z"
+                    },
+                    {
+                        "title": "Doraemon",
+                        "Series Number": "1",
+                        "Episode Number": "490",
+                        "startTime": "2026-10-19T18:30:00Z",
+                        "endTime": "2026-10-19T19:30:00Z"
+                    },
+                    {
+                        "title": "Jungle Tales with Mowgli",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T19:30:00Z",
+                        "endTime": "2026-10-19T20:00:00Z"
+                    },
+                    {
+                        "title": "Doraemon",
+                        "Series Number": "1",
+                        "Episode Number": "490",
+                        "startTime": "2026-10-19T20:00:00Z",
+                        "endTime": "2026-10-19T21:30:00Z"
+                    },
+                    {
+                        "title": "PJ Masks",
+                        "Series Number": "1",
+                        "Episode Number": "490",
+                        "startTime": "2026-10-19T21:30:00Z",
+                        "endTime": "2026-10-19T23:00:00Z"
+                    },
+                    {
+                        "title": "Doraemon",
+                        "Series Number": "1",
+                        "Episode Number": "490",
+                        "startTime": "2026-10-19T23:00:00Z",
+                        "endTime": "2026-10-20T00:00:00Z"
+                    }
+                ]
+            },
+            {
+                "channelId": "159014",
+                "channelName": "Gubbare",
+                "programs": [
+                    {
+                        "title": "Akki Jaanbaaz",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T00:00:00Z",
+                        "endTime": "2026-10-19T00:30:00Z"
+                    },
+                    {
+                        "title": "Akki Jaanbaaz",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T00:30:00Z",
+                        "endTime": "2026-10-19T01:00:00Z"
+                    },
+                    {
+                        "title": "Asuras",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T01:00:00Z",
+                        "endTime": "2026-10-19T01:30:00Z"
+                    },
+                    {
+                        "title": "Asuras",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T01:30:00Z",
+                        "endTime": "2026-10-19T02:00:00Z"
+                    },
+                    {
+                        "title": "Asuras",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T02:00:00Z",
+                        "endTime": "2026-10-19T02:30:00Z"
+                    },
+                    {
+                        "title": "Asuras",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T02:30:00Z",
+                        "endTime": "2026-10-19T03:00:00Z"
+                    },
+                    {
+                        "title": "Akki Jaanbaaz",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T03:00:00Z",
+                        "endTime": "2026-10-19T03:30:00Z"
+                    },
+                    {
+                        "title": "Akki Jaanbaaz",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T03:30:00Z",
+                        "endTime": "2026-10-19T04:00:00Z"
+                    },
+                    {
+                        "title": "Asuras",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T04:00:00Z",
+                        "endTime": "2026-10-19T04:30:00Z"
+                    },
+                    {
+                        "title": "Asuras",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T04:30:00Z",
+                        "endTime": "2026-10-19T05:00:00Z"
+                    },
+                    {
+                        "title": "Asuras",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T05:00:00Z",
+                        "endTime": "2026-10-19T05:30:00Z"
+                    },
+                    {
+                        "title": "Asuras",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T05:30:00Z",
+                        "endTime": "2026-10-19T06:00:00Z"
+                    },
+                    {
+                        "title": "Akki Jaanbaaz",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T06:00:00Z",
+                        "endTime": "2026-10-19T06:30:00Z"
+                    },
+                    {
+                        "title": "Akki Jaanbaaz",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T06:30:00Z",
+                        "endTime": "2026-10-19T07:00:00Z"
+                    },
+                    {
+                        "title": "Krishna Balram",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T07:00:00Z",
+                        "endTime": "2026-10-19T07:30:00Z"
+                    },
+                    {
+                        "title": "Krishna Balram",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T07:30:00Z",
+                        "endTime": "2026-10-19T08:00:00Z"
+                    },
+                    {
+                        "title": "Krishna Balram",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T08:00:00Z",
+                        "endTime": "2026-10-19T08:30:00Z"
+                    },
+                    {
+                        "title": "Krishna Balram",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T08:30:00Z",
+                        "endTime": "2026-10-19T09:00:00Z"
+                    },
+                    {
+                        "title": "Tenali Raman",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T09:00:00Z",
+                        "endTime": "2026-10-19T09:30:00Z"
+                    },
+                    {
+                        "title": "Speed Racer: The Next Generation",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T09:30:00Z",
+                        "endTime": "2026-10-19T10:00:00Z"
+                    },
+                    {
+                        "title": "Speed Racer: The Next Generation",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T10:00:00Z",
+                        "endTime": "2026-10-19T10:30:00Z"
+                    },
+                    {
+                        "title": "Paw Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T10:30:00Z",
+                        "endTime": "2026-10-19T11:00:00Z"
+                    },
+                    {
+                        "title": "Paw Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T11:00:00Z",
+                        "endTime": "2026-10-19T11:30:00Z"
+                    },
+                    {
+                        "title": "Paw Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T11:30:00Z",
+                        "endTime": "2026-10-19T12:00:00Z"
+                    },
+                    {
+                        "title": "Paw Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T12:00:00Z",
+                        "endTime": "2026-10-19T12:30:00Z"
+                    },
+                    {
+                        "title": "BMZ",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T12:30:00Z",
+                        "endTime": "2026-10-19T13:00:00Z"
+                    },
+                    {
+                        "title": "BMZ",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T13:00:00Z",
+                        "endTime": "2026-10-19T13:30:00Z"
+                    },
+                    {
+                        "title": "BMZ",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T13:30:00Z",
+                        "endTime": "2026-10-19T14:00:00Z"
+                    },
+                    {
+                        "title": "BMZ",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T14:00:00Z",
+                        "endTime": "2026-10-19T14:30:00Z"
+                    },
+                    {
+                        "title": "BMZ",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T14:30:00Z",
+                        "endTime": "2026-10-19T15:00:00Z"
+                    },
+                    {
+                        "title": "Mighty Raju",
+                        "Series Number": "1",
+                        "Episode Number": "8",
+                        "startTime": "2026-10-19T15:00:00Z",
+                        "endTime": "2026-10-19T15:30:00Z"
+                    },
+                    {
+                        "title": "Mighty Raju",
+                        "Series Number": "1",
+                        "Episode Number": "17",
+                        "startTime": "2026-10-19T15:30:00Z",
+                        "endTime": "2026-10-19T16:00:00Z"
+                    },
+                    {
+                        "title": "Mighty Raju",
+                        "Series Number": "1",
+                        "Episode Number": "21",
+                        "startTime": "2026-10-19T16:00:00Z",
+                        "endTime": "2026-10-19T16:30:00Z"
+                    },
+                    {
+                        "title": "Mighty Raju",
+                        "Series Number": "1",
+                        "Episode Number": "15",
+                        "startTime": "2026-10-19T16:30:00Z",
+                        "endTime": "2026-10-19T17:00:00Z"
+                    },
+                    {
+                        "title": "Tenali Raman",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T17:00:00Z",
+                        "endTime": "2026-10-19T17:30:00Z"
+                    },
+                    {
+                        "title": "Speed Racer: The Next Generation",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T17:30:00Z",
+                        "endTime": "2026-10-19T18:00:00Z"
+                    },
+                    {
+                        "title": "Speed Racer: The Next Generation",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T18:00:00Z",
+                        "endTime": "2026-10-19T18:30:00Z"
+                    },
+                    {
+                        "title": "Paw Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T18:30:00Z",
+                        "endTime": "2026-10-19T19:00:00Z"
+                    },
+                    {
+                        "title": "Paw Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T19:00:00Z",
+                        "endTime": "2026-10-19T19:30:00Z"
+                    },
+                    {
+                        "title": "Paw Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T19:30:00Z",
+                        "endTime": "2026-10-19T20:00:00Z"
+                    },
+                    {
+                        "title": "Paw Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T20:00:00Z",
+                        "endTime": "2026-10-19T20:30:00Z"
+                    },
+                    {
+                        "title": "Paw Patrol",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T20:30:00Z",
+                        "endTime": "2026-10-19T21:00:00Z"
+                    },
+                    {
+                        "title": "Asuras",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T21:00:00Z",
+                        "endTime": "2026-10-19T21:30:00Z"
+                    },
+                    {
+                        "title": "Asuras",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T21:30:00Z",
+                        "endTime": "2026-10-19T22:00:00Z"
+                    },
+                    {
+                        "title": "Krishna Balram",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T22:00:00Z",
+                        "endTime": "2026-10-19T22:30:00Z"
+                    },
+                    {
+                        "title": "Krishna Balram",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T22:30:00Z",
+                        "endTime": "2026-10-19T23:00:00Z"
+                    },
+                    {
+                        "title": "Mighty Raju vs Mighty Clone",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T23:00:00Z",
+                        "endTime": "2026-10-20T00:00:00Z"
+                    }
+                ]
+            },
+            {
+                "channelId": "143012",
+                "channelName": "DTAMIL",
+                "programs": [
+                    {
+                        "title": "Man vs. Wild",
+                        "Series Number": "7",
+                        "Episode Number": "5",
+                        "startTime": "2026-10-19T00:20:00Z",
+                        "endTime": "2026-10-19T01:20:00Z"
+                    },
+                    {
+                        "title": "Man vs. Wild",
+                        "Series Number": "5",
+                        "Episode Number": "2",
+                        "startTime": "2026-10-19T01:20:00Z",
+                        "endTime": "2026-10-19T02:20:00Z"
+                    },
+                    {
+                        "title": "Man vs. Wild",
+                        "Series Number": "7",
+                        "Episode Number": "2",
+                        "startTime": "2026-10-19T02:20:00Z",
+                        "endTime": "2026-10-19T03:20:00Z"
+                    },
+                    {
+                        "title": "Man vs. Wild",
+                        "Series Number": "5",
+                        "Episode Number": "1",
+                        "startTime": "2026-10-19T03:20:00Z",
+                        "endTime": "2026-10-19T04:10:00Z"
+                    },
+                    {
+                        "title": "Man vs. Wild",
+                        "Series Number": "6",
+                        "Episode Number": "6",
+                        "startTime": "2026-10-19T04:10:00Z",
+                        "endTime": "2026-10-19T05:00:00Z"
+                    },
+                    {
+                        "title": "Man vs. Wild",
+                        "Series Number": "7",
+                        "Episode Number": "1",
+                        "startTime": "2026-10-19T05:00:00Z",
+                        "endTime": "2026-10-19T06:00:00Z"
+                    },
+                    {
+                        "title": "Toddlers & Tiaras",
+                        "Series Number": "4",
+                        "Episode Number": "20",
+                        "startTime": "2026-10-19T06:00:00Z",
+                        "endTime": "2026-10-19T07:00:00Z"
+                    },
+                    {
+                        "title": "Never Back Down: No Surrender",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T07:00:00Z",
+                        "endTime": "2026-10-19T08:55:00Z"
+                    },
+                    {
+                        "title": "Anaconda",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T08:55:00Z",
+                        "endTime": "2026-10-19T10:36:00Z"
+                    },
+                    {
+                        "title": "Sherlock Holmes: A Game of Shadows",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T10:36:00Z",
+                        "endTime": "2026-10-19T13:15:00Z"
+                    },
+                    {
+                        "title": "Resident Evil: Welcome to Raccoon City",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T13:15:00Z",
+                        "endTime": "2026-10-19T15:25:00Z"
+                    },
+                    {
+                        "title": "Resident Evil",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T15:25:00Z",
+                        "endTime": "2026-10-19T17:15:00Z"
+                    },
+                    {
+                        "title": "The One",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T17:15:00Z",
+                        "endTime": "2026-10-19T19:00:00Z"
+                    },
+                    {
+                        "title": "Resident Evil: Retribution",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T19:00:00Z",
+                        "endTime": "2026-10-19T20:50:00Z"
+                    },
+                    {
+                        "title": "Bad Boys II",
+                        "Series Number": "",
+                        "Episode Number": "",
+                        "startTime": "2026-10-19T20:50:00Z",
+                        "endTime": "2026-10-19T23:40:00Z"
+                    },
+                    {
+                        "title": "Man vs. Wild",
+                        "Series Number": "5",
+                        "Episode Number": "5",
+                        "startTime": "2026-10-19T23:40:00Z",
+                        "endTime": "2026-10-20T00:40:00Z"
+                    }
+                ]
+            }
         ]
     }
 }
